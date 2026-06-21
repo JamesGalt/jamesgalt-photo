@@ -29,6 +29,15 @@ h1.page-title{max-width:1100px;margin:8px auto 24px;padding:0 24px;font-size:28p
 .card-meta{padding:14px 16px;}
 .card-title{display:block;font-size:16px;}
 .card-meta time{color:var(--text-dim);font-size:13px;}
+.map-card{grid-column:1/-1;display:flex;align-items:center;gap:18px;
+  background:var(--brand-grad);border-radius:10px;padding:20px 24px;color:#fff;
+  transition:transform .15s ease;}
+.map-card:hover{transform:translateY(-2px);}
+.map-card .pin{flex:none;width:34px;height:34px;}
+.map-card .mc-text{display:flex;flex-direction:column;}
+.map-card .mc-title{font-size:18px;font-weight:600;}
+.map-card .mc-sub{font-size:14px;opacity:.92;}
+.map-card .mc-go{margin-left:auto;font-size:22px;opacity:.85;}
 .site-footer{max-width:1100px;margin:0 auto;padding:24px;border-top:1px solid var(--bg-elev);
   color:var(--text-dim);font-size:13px;text-align:center;}
 .site-footer a{color:var(--accent);}
@@ -41,6 +50,17 @@ h1.page-title{max-width:1100px;margin:8px auto 24px;padding:0 24px;font-size:28p
 </nav>
 <h1 class="page-title">Photo journal</h1>
 <main class="grid">
+  <a class="map-card" href="/journal/map/">
+    <svg class="pin" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+      <path d="M12 22s7-7.03 7-12a7 7 0 1 0-14 0c0 4.97 7 12 7 12z" fill="#fff" fill-opacity="0.18" stroke="#fff" stroke-width="1.6"/>
+      <circle cx="12" cy="10" r="2.6" fill="#fff"/>
+    </svg>
+    <span class="mc-text">
+      <span class="mc-title">From the field</span>
+      <span class="mc-sub">See where these photos were made on the map</span>
+    </span>
+    <span class="mc-go" aria-hidden="true">→</span>
+  </a>
   <a class="card" href="copenhagen-harbor/">
     <img src="copenhagen-harbor/cover.jpg" alt="Copenhagen harbor, evening" loading="lazy">
     <div class="card-meta">
