@@ -5,15 +5,23 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>James Galt — Photographer</title>
 <meta name="description" content="Photographer and developer. HDR work from France, Japan, and East Africa.">
+<link rel="canonical" href="https://www.jamesgalt.photo/">
 
 <meta property="og:title" content="James Galt">
 <meta property="og:description" content="Photographer and developer. HDR work from France, Japan, and East Africa.">
-<meta property="og:image" content="https://www.jamesgalt.photo/journal/copenhagen-harbor/cover.jpg"><meta property="og:type" content="website">
+<meta property="og:image" content="https://www.jamesgalt.photo/journal/copenhagen-harbor/cover.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:type" content="image/jpeg"><meta property="og:type" content="website">
 <meta property="og:url" content="https://www.jamesgalt.photo/">
+<meta property="og:site_name" content="jamesgalt.photo">
 <meta name="twitter:card" content="summary_large_image">
-<link rel="icon" href="/favicon.png" sizes="any">
+<meta name="twitter:title" content="James Galt">
+<meta name="twitter:description" content="Photographer and developer. HDR work from France, Japan, and East Africa.">
+<meta name="twitter:image" content="https://www.jamesgalt.photo/journal/copenhagen-harbor/cover.jpg"><link rel="icon" href="/favicon.png" sizes="any">
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
 <link rel="alternate" type="application/atom+xml" title="Journal" href="/journal/feed.xml">
+<script type="application/ld+json">[{"@context": "https://schema.org", "@type": "Person", "name": "James Galt", "url": "https://www.jamesgalt.photo/", "description": "Photographer and developer. HDR work from France, Japan, and East Africa.", "sameAs": ["https://bsky.app/profile/jamesgalt"]}, {"@context": "https://schema.org", "@type": "WebSite", "name": "jamesgalt.photo", "url": "https://www.jamesgalt.photo/", "author": {"@type": "Person", "name": "James Galt"}}]</script>
 
 <style>
 :root{
@@ -25,6 +33,8 @@
 body{margin:0;background:var(--bg);color:var(--text);line-height:1.6;
   font-family:-apple-system,BlinkMacSystemFont,"SF Pro Display","Segoe UI",Roboto,Helvetica,Arial,sans-serif;}
 a{color:inherit;text-decoration:none}
+a:focus-visible,.bsky:focus-visible,input:focus-visible,button:focus-visible{
+  outline:2px solid var(--accent);outline-offset:3px;border-radius:2px}
 .wrap{max-width:1040px;margin:0 auto;padding:0 24px}
 
 /* hero */
@@ -37,6 +47,7 @@ a{color:inherit;text-decoration:none}
 .hero-inner{position:relative;z-index:1;padding:80px 24px}
 .hero h1{font-size:clamp(40px,8vw,76px);line-height:1;margin:0 0 16px;letter-spacing:-.02em;
   background:var(--brand-grad);-webkit-background-clip:text;background-clip:text;color:transparent;}
+@media (prefers-contrast:more){.hero h1{background:none;-webkit-text-fill-color:var(--text);color:var(--text)}}
 .hero p{color:var(--text-dim);font-size:clamp(15px,2.4vw,19px);margin:0 auto 28px;max-width:30em}
 .bsky{display:inline-flex;align-items:center;gap:8px;border:1px solid var(--line);
   background:var(--bg-elev);color:var(--text);padding:11px 18px;border-radius:999px;font-size:14px;}
@@ -104,7 +115,7 @@ footer a{color:var(--accent)}
 
   <section class="cards">
     <a class="card" href="/journal/">
-<img class="card-thumb" src="journal/copenhagen-harbor/cover.jpg" alt="Copenhagen harbor, evening" loading="lazy">      <div class="card-body">
+<img class="card-thumb" src="journal/copenhagen-harbor/cover.jpg" alt="Copenhagen harbor, evening" width="1200" height="630" loading="lazy">      <div class="card-body">
         <span class="eyebrow">Photo journal</span>
         <h2>Journal</h2>
 <p>Latest: Copenhagen harbor, evening · 21 June 2026</p>
@@ -135,18 +146,18 @@ footer a{color:var(--accent)}
     <h2 class="section-title">Recent from the journal</h2>
     <div class="recent">
       <a href="journal/copenhagen-harbor/">
-        <img src="journal/copenhagen-harbor/cover.jpg" alt="Copenhagen harbor, evening" loading="lazy">
+        <img src="journal/copenhagen-harbor/cover.jpg" alt="Copenhagen harbor, evening" width="1200" height="630" loading="lazy">
         <div class="rmeta">Copenhagen harbor, evening<time>21 June 2026</time></div>
       </a>
       <a href="journal/copenhagen-passages/">
-        <img src="journal/copenhagen-passages/cover.jpg" alt="Copenhagen, behind the street" loading="lazy">
+        <img src="journal/copenhagen-passages/cover.jpg" alt="Copenhagen, behind the street" width="1200" height="630" loading="lazy">
         <div class="rmeta">Copenhagen, behind the street<time>20 June 2026</time></div>
       </a>
     </div>
   </section>
 
   <section class="about">
-<img src="portrait.jpg" alt="James Galt">    <p>James Galt is a French photographer and software developer. By day an application security engineer; evenings and weekends, he builds software and makes pictures. He shoots a Hasselblad X2D, mostly in HDR, and has spent years photographing wildlife, landscapes, and people across France, Japan, Zanzibar, and Tanzania.</p>
+<img src="portrait.jpg" alt="James Galt" width="200" height="200">    <p>James Galt is a French photographer and software developer. By day an application security engineer; evenings and weekends, he builds software and makes pictures. He shoots a Hasselblad X2D, mostly in HDR, and has spent years photographing wildlife, landscapes, and people across France, Japan, Zanzibar, and Tanzania.</p>
   </section>
 
   <section>
