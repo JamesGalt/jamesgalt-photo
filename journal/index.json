@@ -12,6 +12,11 @@
       "denmark",
       "harbor",
       "opera-house"
+    ],
+    "place": "Christianshavn, Copenhagen",
+    "coords": [
+      55.676,
+      12.599
     ]
   },
   {
@@ -27,6 +32,11 @@
       "denmark",
       "rundetarn",
       "glyptotek"
+    ],
+    "place": "Rundet\u00e5rn, Copenhagen",
+    "coords": [
+      55.6133,
+      12.5757
     ]
   }
 ]

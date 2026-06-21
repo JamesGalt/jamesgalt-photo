@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Map · Photo journal · jamesgalt.photo</title>
+<meta name="description" content="Where James Galt's photos were made.">
+<link rel="icon" href="/favicon.png" sizes="any">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<style>
+:root{ --bg:#0A0A0E; --bg-elev:#14141A; --text:#F5F5F7; --text-dim:#A1A1A6; --accent:#C82E86; }
+*{box-sizing:border-box}
+html,body{margin:0;height:100%}
+body{background:var(--bg);color:var(--text);
+  font-family:-apple-system,BlinkMacSystemFont,"SF Pro Display","Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+  display:flex;flex-direction:column;}
+.top-nav{display:flex;justify-content:space-between;align-items:center;
+  padding:18px 24px;color:var(--text-dim);font-size:14px;border-bottom:1px solid var(--bg-elev);}
+.top-nav a{color:inherit;text-decoration:none}
+#map{flex:1 1 auto;min-height:0}
+.cb{display:flex;gap:10px;align-items:center;max-width:300px}
+.cb img{width:96px;height:auto;border-radius:6px;display:block}
+.cb a{color:var(--accent);text-decoration:none;font-size:14px}
+</style>
+</head>
+<body>
+<nav class="top-nav">
+  <span>Map · jamesgalt.photo</span>
+  <a href="/journal/">← All photos</a>
+</nav>
+<div id="map"></div>
+
+<script>
+const ANNOTATIONS = [{"lat": 55.676, "lng": 12.599, "title": "Copenhagen harbor, evening", "place": "Christianshavn, Copenhagen", "url": "/journal/copenhagen-harbor/", "thumb": "/journal/copenhagen-harbor/cover.jpg"}, {"lat": 55.6133, "lng": 12.5757, "title": "Copenhagen, behind the street", "place": "Rundet\u00e5rn, Copenhagen", "url": "/journal/copenhagen-passages/", "thumb": "/journal/copenhagen-passages/cover.jpg"}];
+// MapKit JS self-initializes from the data-token below and calls this when ready.
+function initMapKit() {
+  const map = new mapkit.Map("map", { colorScheme: mapkit.Map.ColorSchemes.Dark });
+  const anns = ANNOTATIONS.map(a => {
+    const m = new mapkit.MarkerAnnotation(new mapkit.Coordinate(a.lat, a.lng), {
+      title: a.title, color: "#C82E86", clusteringIdentifier: "post",
+    });
+    m.data = a;
+    m.callout = {
+      calloutElementForAnnotation: () => {
+        const d = document.createElement("div");
+        d.className = "cb";
+        d.innerHTML =
+          (a.thumb ? `<a href="${a.url}"><img src="${a.thumb}" alt=""></a>` : "") +
+          `<a href="${a.url}">${a.title}${a.place ? " · " + a.place : ""}</a>`;
+        return d;
+      },
+    };
+    return m;
+  });
+  map.addAnnotations(anns);
+  if (anns.length) map.showItems(anns);
+}
+</script>
+<script src="https://cdn.apple-mapkit.com/mk/x/mapkit.core.js"
+        crossorigin async
+        data-callback="initMapKit"
+        data-libraries="map,annotations"
+        data-token="eyJraWQiOiI4QThYNTc5OFJEIiwidHlwIjoiSldUIiwiYWxnIjoiRVMyNTYifQ.eyJpc3MiOiJXNDc3U1pDMzkzIiwiaWF0IjoxNzgxOTk3MzY2LCJvcmlnaW4iOiJ3d3cuamFtZXNnYWx0LnBob3RvIiwic2NvcGUiOiJtYXBraXRfanMifQ.1zHwVL3iApC3l4wMYD8ds7w_cB3qK_uZiwuAabpqLxtwPlaFeCCS7pCU_xMtGtLnE98Qs3mHuGTZgNabmIP2Kg"></script>
+</body>
+</html>
