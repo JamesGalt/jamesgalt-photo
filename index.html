@@ -97,6 +97,7 @@ a.card:hover{border-color:var(--accent);transform:translateY(-2px)}
 .news button{padding:11px 18px;border-radius:10px;border:0;color:#fff;font-size:14px;cursor:pointer;
   background:var(--accent)}
 .news button[disabled]{background:var(--line);color:var(--text-dim);cursor:default}
+.signup-fine{margin:12px 0 0;font-size:12px;color:var(--text-dim)}
 
 footer{border-top:1px solid var(--line);color:var(--text-dim);font-size:13px;text-align:center;padding:28px 24px}
 footer a{color:var(--accent)}
@@ -165,14 +166,18 @@ footer a{color:var(--accent)}
 <img src="portrait.jpg" alt="James Galt" width="200" height="200">    <p>James Galt is a French photographer and software developer. By day an application security engineer; evenings and weekends, he builds software and makes pictures. He shoots a Hasselblad X2D, mostly in HDR, and has spent years photographing wildlife, landscapes, and people across France, Japan, Zanzibar, and Tanzania.</p>
   </section>
 
-  <section>
+  <section id="newsletter">
     <div class="news">
-      <h2>Prints, when they land</h2>
-      <p>A short, infrequent note when the shop opens. No spam.</p>
-      <form onsubmit="return false">
-        <input type="email" placeholder="you@email.com" disabled>
-        <button type="button" disabled>Coming soon</button>
-      </form>
+      <h2>Subscribe</h2>
+      <p>New work from the journal, and first access to limited prints.
+        A few emails a year, no spam.</p>
+<form action="https://buttondown.com/api/emails/embed-subscribe/jamesgalt" method="post">
+  <input type="email" name="email" placeholder="you@email.com"
+         aria-label="Email address" autocomplete="email" required>
+  <input type="hidden" name="tag" value="journal">
+  <button type="submit">Subscribe</button>
+</form>
+<p class="signup-fine">Double opt-in. Unsubscribe anytime.</p>
     </div>
   </section>
 
@@ -181,7 +186,7 @@ footer a{color:var(--accent)}
 <footer>
   © 2026 James Galt ·
   <a href="/journal/">Journal</a> ·
-<a href="/journal/map/">Map</a> ·  <a href="https://nits.jamesgalt.photo">Nits</a> ·
+<a href="/journal/map/">Map</a> ·<a href="/#newsletter">Newsletter</a> ·  <a href="https://nits.jamesgalt.photo">Nits</a> ·
   <a href="https://bsky.app/profile/jamesgalt">Bluesky</a> ·
   <a href="mailto:hello@jamesgalt.photo">hello@jamesgalt.photo</a>
 </footer>
