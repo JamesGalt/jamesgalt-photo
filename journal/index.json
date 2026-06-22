@@ -1,5 +1,25 @@
 [
   {
+    "slug": "copenhagen-evening",
+    "title": "Copenhagen, late evening",
+    "excerpt": "Two from the same golden hour: a window where the harbor and a wall of portraits overlap in reflection, and Nyhavn with the light running along the old fronts.",
+    "iso_date": "2026-06-22T09:00:00+02:00",
+    "date": "22 June 2026",
+    "thumb": "copenhagen-evening/cover.jpg",
+    "tags": [
+      "urban",
+      "copenhagen",
+      "denmark",
+      "nyhavn",
+      "reflections"
+    ],
+    "place": "Nyhavn, Copenhagen",
+    "coords": [
+      55.6797,
+      12.5912
+    ]
+  },
+  {
     "slug": "copenhagen-harbor",
     "title": "Copenhagen harbor, evening",
     "excerpt": "Three from the inner harbor on a late-June evening: new housing on the Christianshavn waterfront, the Opera House across the water, and the fountain in front of it where two children were deciding how close to get. The light this far north holds long past dinner.",

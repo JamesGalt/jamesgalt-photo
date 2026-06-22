@@ -5,7 +5,18 @@
   <link rel="self" type="application/atom+xml" href="https://www.jamesgalt.photo/journal/feed.xml"/>
   <id>https://www.jamesgalt.photo/journal/</id>
   <author><name>James Galt</name></author>
-<updated>2026-06-21T09:00:00+02:00</updated>  <entry>
+<updated>2026-06-22T09:00:00+02:00</updated>  <entry>
+    <title>Copenhagen, late evening</title>
+    <link href="https://www.jamesgalt.photo/journal/copenhagen-evening/"/>
+    <id>https://www.jamesgalt.photo/journal/copenhagen-evening/</id>
+    <updated>2026-06-22T09:00:00+02:00</updated>
+<category term="urban"/>
+<category term="copenhagen"/>
+<category term="denmark"/>
+<category term="nyhavn"/>
+<category term="reflections"/>
+<summary>Two from the same golden hour: a window where the harbor and a wall of portraits overlap in reflection, and Nyhavn with the light running along the old fronts.</summary>  </entry>
+  <entry>
     <title>Copenhagen harbor, evening</title>
     <link href="https://www.jamesgalt.photo/journal/copenhagen-harbor/"/>
     <id>https://www.jamesgalt.photo/journal/copenhagen-harbor/</id>
