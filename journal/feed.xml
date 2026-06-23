@@ -5,7 +5,18 @@
   <link rel="self" type="application/atom+xml" href="https://www.jamesgalt.photo/journal/feed.xml"/>
   <id>https://www.jamesgalt.photo/journal/</id>
   <author><name>James Galt</name></author>
-<updated>2026-06-22T09:00:00+02:00</updated>  <entry>
+<updated>2026-06-23T09:00:00+02:00</updated>  <entry>
+    <title>Morning at the Glyptotek</title>
+    <link href="https://www.jamesgalt.photo/journal/copenhagen-glyptotek/"/>
+    <id>https://www.jamesgalt.photo/journal/copenhagen-glyptotek/</id>
+    <updated>2026-06-23T09:00:00+02:00</updated>
+<category term="sculpture"/>
+<category term="copenhagen"/>
+<category term="denmark"/>
+<category term="glyptotek"/>
+<category term="museum"/>
+<summary>Two from the Glyptotek on a quiet morning: Kai Nielsen&#39;s marble water mother in the planted Winter Garden, and a visitor who happened to match the rose walls of the painting rooms.</summary>  </entry>
+  <entry>
     <title>Copenhagen, late evening</title>
     <link href="https://www.jamesgalt.photo/journal/copenhagen-evening/"/>
     <id>https://www.jamesgalt.photo/journal/copenhagen-evening/</id>

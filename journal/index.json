@@ -1,5 +1,25 @@
 [
   {
+    "slug": "copenhagen-glyptotek",
+    "title": "Morning at the Glyptotek",
+    "excerpt": "Two from the Glyptotek on a quiet morning: Kai Nielsen's marble water mother in the planted Winter Garden, and a visitor who happened to match the rose walls of the painting rooms.",
+    "iso_date": "2026-06-23T09:00:00+02:00",
+    "date": "23 June 2026",
+    "thumb": "copenhagen-glyptotek/cover.jpg",
+    "tags": [
+      "sculpture",
+      "copenhagen",
+      "denmark",
+      "glyptotek",
+      "museum"
+    ],
+    "place": "Ny Carlsberg Glyptotek, Copenhagen",
+    "coords": [
+      55.6726,
+      12.5733
+    ]
+  },
+  {
     "slug": "copenhagen-evening",
     "title": "Copenhagen, late evening",
     "excerpt": "Two from the same golden hour: a window where the harbor and a wall of portraits overlap in reflection, and Nyhavn with the light running along the old fronts.",
