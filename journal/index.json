@@ -1,5 +1,25 @@
 [
   {
+    "slug": "copenhagen-chairs",
+    "title": "Chairs as portraits",
+    "excerpt": "Two chairs lit from behind in their cases at Designmuseum Danmark, photographed straight on like portraits: an Eames LCW in molded plywood, and Arne Jacobsen's blue Lily with its curling arms.",
+    "iso_date": "2026-06-24T09:00:00+02:00",
+    "date": "24 June 2026",
+    "thumb": "copenhagen-chairs/cover.jpg",
+    "tags": [
+      "chairs",
+      "design",
+      "copenhagen",
+      "denmark",
+      "museum"
+    ],
+    "place": "Designmuseum Danmark, Copenhagen",
+    "coords": [
+      55.6864,
+      12.5934
+    ]
+  },
+  {
     "slug": "copenhagen-glyptotek",
     "title": "Morning at the Glyptotek",
     "excerpt": "Two from the Glyptotek on a quiet morning: Kai Nielsen's marble water mother in the planted Winter Garden, and a visitor who happened to match the rose walls of the painting rooms.",
