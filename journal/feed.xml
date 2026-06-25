@@ -5,7 +5,18 @@
   <link rel="self" type="application/atom+xml" href="https://www.jamesgalt.photo/journal/feed.xml"/>
   <id>https://www.jamesgalt.photo/journal/</id>
   <author><name>James Galt</name></author>
-<updated>2026-06-24T09:00:00+02:00</updated>  <entry>
+<updated>2026-06-25T09:00:00+02:00</updated>  <entry>
+    <title>Skytree from the bridge</title>
+    <link href="https://www.jamesgalt.photo/journal/tokyo-skytree/"/>
+    <id>https://www.jamesgalt.photo/journal/tokyo-skytree/</id>
+    <updated>2026-06-25T09:00:00+02:00</updated>
+<category term="tokyo"/>
+<category term="japan"/>
+<category term="urban"/>
+<category term="skytree"/>
+<category term="asakusa"/>
+<summary>The tower is nominally the subject, but the sky took up most of the frame, and most of the work.</summary>  </entry>
+  <entry>
     <title>Chairs as portraits</title>
     <link href="https://www.jamesgalt.photo/journal/copenhagen-chairs/"/>
     <id>https://www.jamesgalt.photo/journal/copenhagen-chairs/</id>
