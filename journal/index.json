@@ -1,5 +1,25 @@
 [
   {
+    "slug": "tokyo-ginza-marunouchi",
+    "title": "Ginza to Marunouchi, Sunday afternoon",
+    "excerpt": "A man in a Louis Vuitton kimono owning a Ginza crossing, then a red postbox and a building wearing its garden, a few blocks over in Marunouchi. Three frames from one walk.",
+    "iso_date": "2026-06-26T09:00:00+02:00",
+    "date": "26 June 2026",
+    "thumb": "tokyo-ginza-marunouchi/cover.jpg",
+    "tags": [
+      "tokyo",
+      "japan",
+      "street",
+      "ginza",
+      "marunouchi"
+    ],
+    "place": "Ginza, Tokyo",
+    "coords": [
+      35.6717,
+      139.765
+    ]
+  },
+  {
     "slug": "tokyo-skytree",
     "title": "Skytree from the bridge",
     "excerpt": "The tower is nominally the subject, but the sky took up most of the frame, and most of the work.",
