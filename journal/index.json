@@ -1,5 +1,24 @@
 [
   {
+    "slug": "tokyo-ginza-interiors",
+    "title": "An atrium cat and a quiet staircase",
+    "excerpt": "A cat in a spacesuit piloting a rocket over a shopping atrium, then a travertine staircase quiet as a chapel. Two interiors a minute apart, opposite moods.",
+    "iso_date": "2026-06-27T09:00:00+02:00",
+    "date": "27 June 2026",
+    "thumb": "tokyo-ginza-interiors/cover.jpg",
+    "tags": [
+      "tokyo",
+      "japan",
+      "urban",
+      "ginza"
+    ],
+    "place": "Ginza, Tokyo",
+    "coords": [
+      35.6717,
+      139.765
+    ]
+  },
+  {
     "slug": "tokyo-ginza-marunouchi",
     "title": "Ginza to Marunouchi, Sunday afternoon",
     "excerpt": "A man in a Louis Vuitton kimono owning a Ginza crossing, then a red postbox and a building wearing its garden, a few blocks over in Marunouchi. Three frames from one walk.",
