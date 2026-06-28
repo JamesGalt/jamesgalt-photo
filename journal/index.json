@@ -1,5 +1,25 @@
 [
   {
+    "slug": "tokyo-sushi-counter",
+    "title": "At the counter",
+    "excerpt": "A single piece of silver-skinned nigiri on a bamboo leaf, ginger and scallion on top, gari beside it. The sign behind promises \u014cma tuna; this came first.",
+    "iso_date": "2026-06-28T09:00:00+02:00",
+    "date": "28 June 2026",
+    "thumb": "tokyo-sushi-counter/cover.jpg",
+    "tags": [
+      "tokyo",
+      "japan",
+      "food",
+      "still-life",
+      "ginza"
+    ],
+    "place": "Ginza, Tokyo",
+    "coords": [
+      35.6717,
+      139.765
+    ]
+  },
+  {
     "slug": "tokyo-ginza-interiors",
     "title": "An atrium cat and a quiet staircase",
     "excerpt": "A cat in a spacesuit piloting a rocket over a shopping atrium, then a travertine staircase quiet as a chapel. Two interiors a minute apart, opposite moods.",
