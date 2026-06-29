@@ -1,5 +1,25 @@
 [
   {
+    "slug": "tokyo-garden-pond",
+    "title": "Garden pond, morning",
+    "excerpt": "Clipped shrubs, a maple turning, the still water doing the rest. A small Tokyo garden first thing, with the city standing in close behind the hedge.",
+    "iso_date": "2026-06-29T09:00:00+02:00",
+    "date": "29 June 2026",
+    "thumb": "tokyo-garden-pond/cover.jpg",
+    "tags": [
+      "tokyo",
+      "japan",
+      "landscape",
+      "garden",
+      "ryogoku"
+    ],
+    "place": "Ryogoku, Tokyo",
+    "coords": [
+      35.696,
+      139.793
+    ]
+  },
+  {
     "slug": "tokyo-sushi-counter",
     "title": "At the counter",
     "excerpt": "A single piece of silver-skinned nigiri on a bamboo leaf, ginger and scallion on top, gari beside it. The sign behind promises \u014cma tuna; this came first.",
