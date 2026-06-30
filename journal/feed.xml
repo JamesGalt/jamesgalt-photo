@@ -5,7 +5,18 @@
   <link rel="self" type="application/atom+xml" href="https://www.jamesgalt.photo/journal/feed.xml"/>
   <id>https://www.jamesgalt.photo/journal/</id>
   <author><name>James Galt</name></author>
-<updated>2026-06-29T09:00:00+02:00</updated>  <entry>
+<updated>2026-06-30T09:00:00+02:00</updated>  <entry>
+    <title>Tokyo International Forum</title>
+    <link href="https://www.jamesgalt.photo/journal/tokyo-forum/"/>
+    <id>https://www.jamesgalt.photo/journal/tokyo-forum/</id>
+    <updated>2026-06-30T09:00:00+02:00</updated>
+<category term="tokyo"/>
+<category term="japan"/>
+<category term="urban"/>
+<category term="architecture"/>
+<category term="yurakucho"/>
+<summary>Up out of the underground passages and into Viñoly&#39;s glass hall, where the ceiling lifts away into a lattice of white ribs. The way in mattered as much as the room.</summary>  </entry>
+  <entry>
     <title>Garden pond, morning</title>
     <link href="https://www.jamesgalt.photo/journal/tokyo-garden-pond/"/>
     <id>https://www.jamesgalt.photo/journal/tokyo-garden-pond/</id>

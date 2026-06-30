@@ -1,5 +1,25 @@
 [
   {
+    "slug": "tokyo-forum",
+    "title": "Tokyo International Forum",
+    "excerpt": "Up out of the underground passages and into Vi\u00f1oly's glass hall, where the ceiling lifts away into a lattice of white ribs. The way in mattered as much as the room.",
+    "iso_date": "2026-06-30T09:00:00+02:00",
+    "date": "30 June 2026",
+    "thumb": "tokyo-forum/cover.jpg",
+    "tags": [
+      "tokyo",
+      "japan",
+      "urban",
+      "architecture",
+      "yurakucho"
+    ],
+    "place": "Tokyo International Forum, Yurakucho",
+    "coords": [
+      35.6772,
+      139.7637
+    ]
+  },
+  {
     "slug": "tokyo-garden-pond",
     "title": "Garden pond, morning",
     "excerpt": "Clipped shrubs, a maple turning, the still water doing the rest. A small Tokyo garden first thing, with the city standing in close behind the hedge.",
