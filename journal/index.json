@@ -1,5 +1,25 @@
 [
   {
+    "slug": "tokyo-marunouchi-rooftop",
+    "title": "From the KITTE roof",
+    "excerpt": "Tokyo Station's red brick seen from above, platforms fanning out behind it, glass towers all around. The Marunouchi rooftop everyone climbs up for, and the reason why.",
+    "iso_date": "2026-07-01T09:00:00+02:00",
+    "date": "1 July 2026",
+    "thumb": "tokyo-marunouchi-rooftop/cover.jpg",
+    "tags": [
+      "tokyo",
+      "japan",
+      "urban",
+      "architecture",
+      "marunouchi"
+    ],
+    "place": "KITTE rooftop, Marunouchi",
+    "coords": [
+      35.6796,
+      139.7648
+    ]
+  },
+  {
     "slug": "tokyo-forum",
     "title": "Tokyo International Forum",
     "excerpt": "Up out of the underground passages and into Vi\u00f1oly's glass hall, where the ceiling lifts away into a lattice of white ribs. The way in mattered as much as the room.",
