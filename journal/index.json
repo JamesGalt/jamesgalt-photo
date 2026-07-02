@@ -1,5 +1,25 @@
 [
   {
+    "slug": "tokyo-imperial-palace",
+    "title": "Around the Imperial Palace",
+    "excerpt": "The moat with the city stacked along one bank, the clipped black pines of the outer garden, then Nijubashi. A loop where the towers never quite leave the frame.",
+    "iso_date": "2026-07-02T09:00:00+02:00",
+    "date": "2 July 2026",
+    "thumb": "tokyo-imperial-palace/cover.jpg",
+    "tags": [
+      "tokyo",
+      "japan",
+      "landscape",
+      "urban",
+      "imperial-palace"
+    ],
+    "place": "Imperial Palace, Tokyo",
+    "coords": [
+      35.6852,
+      139.7528
+    ]
+  },
+  {
     "slug": "tokyo-marunouchi-rooftop",
     "title": "From the KITTE roof",
     "excerpt": "Tokyo Station's red brick seen from above, platforms fanning out behind it, glass towers all around. The Marunouchi rooftop everyone climbs up for, and the reason why.",
