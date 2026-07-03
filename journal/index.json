@@ -1,5 +1,25 @@
 [
   {
+    "slug": "tokyo-afternoon-walk",
+    "title": "The loose hour",
+    "excerpt": "Two kids parked on the grass with the towers behind them, then an empty side street with the sun coming in low. The unstructured part of an afternoon.",
+    "iso_date": "2026-07-03T09:00:00+02:00",
+    "date": "3 July 2026",
+    "thumb": "tokyo-afternoon-walk/cover.jpg",
+    "tags": [
+      "tokyo",
+      "japan",
+      "street",
+      "urban",
+      "hibiya"
+    ],
+    "place": "Hibiya, Tokyo",
+    "coords": [
+      35.6739,
+      139.7568
+    ]
+  },
+  {
     "slug": "tokyo-kimono-portrait",
     "title": "Two in kimono",
     "excerpt": "Two visitors in rented kimono near the palace, happy to stop for a frame. One small thing gives the century away.",
