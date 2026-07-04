@@ -1,5 +1,25 @@
 [
   {
+    "slug": "tokyo-hamarikyu-dusk",
+    "title": "Dusk, and the way out",
+    "excerpt": "The thatched teahouse on the pond going quiet, then out past the hoardings where the towers caught the last of the sun. Closing time at Hamarikyu.",
+    "iso_date": "2026-07-04T19:00:00+02:00",
+    "date": "4 July 2026",
+    "thumb": "tokyo-hamarikyu-dusk/cover.jpg",
+    "tags": [
+      "tokyo",
+      "japan",
+      "landscape",
+      "hamarikyu",
+      "dusk"
+    ],
+    "place": "Hamarikyu Gardens, Tokyo",
+    "coords": [
+      35.6597,
+      139.7634
+    ]
+  },
+  {
     "slug": "tokyo-hamarikyu-pond",
     "title": "Hamarikyu, the water",
     "excerpt": "The tidal pond holding the city upside down, towers going gold as the sun dropped. The wooden bridge, the pines, the same skyline doubled in still water.",
