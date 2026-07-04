@@ -1,5 +1,25 @@
 [
   {
+    "slug": "tokyo-hamarikyu-pond",
+    "title": "Hamarikyu, the water",
+    "excerpt": "The tidal pond holding the city upside down, towers going gold as the sun dropped. The wooden bridge, the pines, the same skyline doubled in still water.",
+    "iso_date": "2026-07-04T09:00:00+02:00",
+    "date": "4 July 2026",
+    "thumb": "tokyo-hamarikyu-pond/cover.jpg",
+    "tags": [
+      "tokyo",
+      "japan",
+      "landscape",
+      "hamarikyu",
+      "golden-hour"
+    ],
+    "place": "Hamarikyu Gardens, Tokyo",
+    "coords": [
+      35.6597,
+      139.7634
+    ]
+  },
+  {
     "slug": "tokyo-hamarikyu-golden",
     "title": "Hamarikyu, golden hour",
     "excerpt": "The garden's black pines kept low and broad over the grass, Shiodome's towers standing just past the treeline. Hamarikyu as the light went gold.",
