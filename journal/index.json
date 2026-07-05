@@ -1,5 +1,25 @@
 [
   {
+    "slug": "tokyo-night-eats",
+    "title": "Out late",
+    "excerpt": "A yakiniku place lit up yellow and red with nobody on the street, then a bar alley two minutes away, warm and crowded with signs. Tokyo after ten.",
+    "iso_date": "2026-07-05T09:00:00+02:00",
+    "date": "5 July 2026",
+    "thumb": "tokyo-night-eats/cover.jpg",
+    "tags": [
+      "tokyo",
+      "japan",
+      "street",
+      "night",
+      "shinjuku"
+    ],
+    "place": "Shinjuku, Tokyo",
+    "coords": [
+      35.6938,
+      139.7034
+    ]
+  },
+  {
     "slug": "tokyo-hamarikyu-dusk",
     "title": "Dusk, and the way out",
     "excerpt": "The thatched teahouse on the pond going quiet, then out past the hoardings where the towers caught the last of the sun. Closing time at Hamarikyu.",

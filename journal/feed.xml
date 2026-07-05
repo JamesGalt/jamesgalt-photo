@@ -5,7 +5,18 @@
   <link rel="self" type="application/atom+xml" href="https://www.jamesgalt.photo/journal/feed.xml"/>
   <id>https://www.jamesgalt.photo/journal/</id>
   <author><name>James Galt</name></author>
-<updated>2026-07-04T19:00:00+02:00</updated>  <entry>
+<updated>2026-07-05T09:00:00+02:00</updated>  <entry>
+    <title>Out late</title>
+    <link href="https://www.jamesgalt.photo/journal/tokyo-night-eats/"/>
+    <id>https://www.jamesgalt.photo/journal/tokyo-night-eats/</id>
+    <updated>2026-07-05T09:00:00+02:00</updated>
+<category term="tokyo"/>
+<category term="japan"/>
+<category term="street"/>
+<category term="night"/>
+<category term="shinjuku"/>
+<summary>A yakiniku place lit up yellow and red with nobody on the street, then a bar alley two minutes away, warm and crowded with signs. Tokyo after ten.</summary>  </entry>
+  <entry>
     <title>Dusk, and the way out</title>
     <link href="https://www.jamesgalt.photo/journal/tokyo-hamarikyu-dusk/"/>
     <id>https://www.jamesgalt.photo/journal/tokyo-hamarikyu-dusk/</id>
