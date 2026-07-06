@@ -1,5 +1,25 @@
 [
   {
+    "slug": "tokyo-katana",
+    "title": "Behind glass",
+    "excerpt": "A katana in a gold-lacquer scabbard, resting on cream silk and lit out of the dark. The last frame of the trip, and the quietest.",
+    "iso_date": "2026-07-06T19:00:00+02:00",
+    "date": "6 July 2026",
+    "thumb": "tokyo-katana/cover.jpg",
+    "tags": [
+      "tokyo",
+      "japan",
+      "still-life",
+      "katana",
+      "sumida"
+    ],
+    "place": "Sumida, Tokyo",
+    "coords": [
+      35.6985,
+      139.792
+    ]
+  },
+  {
     "slug": "tokyo-looking-out",
     "title": "Two ways of looking out",
     "excerpt": "A tatami room framing a moss garden and a stone lantern, then Kengo Kuma's glass at the Nezu Museum. The same idea, centuries apart.",
