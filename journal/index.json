@@ -1,5 +1,25 @@
 [
   {
+    "slug": "tokyo-looking-out",
+    "title": "Two ways of looking out",
+    "excerpt": "A tatami room framing a moss garden and a stone lantern, then Kengo Kuma's glass at the Nezu Museum. The same idea, centuries apart.",
+    "iso_date": "2026-07-06T09:00:00+02:00",
+    "date": "6 July 2026",
+    "thumb": "tokyo-looking-out/cover.jpg",
+    "tags": [
+      "tokyo",
+      "japan",
+      "architecture",
+      "daikanyama",
+      "aoyama"
+    ],
+    "place": "Daikanyama, Tokyo",
+    "coords": [
+      35.6495,
+      139.702
+    ]
+  },
+  {
     "slug": "tokyo-morning-streets",
     "title": "A neighbourhood, early",
     "excerpt": "A Don Quijote tower, a timber-clad Starbucks in a winter wreath, a green-tiled apartment block with a spiral stair. The ordinary texture of Tokyo, before the day got going.",
