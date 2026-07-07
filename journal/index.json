@@ -1,5 +1,25 @@
 [
   {
+    "slug": "osaka-umeda-night",
+    "title": "Umeda after dark",
+    "excerpt": "The Christmas illuminations just up in front of Osaka Station: the street trees lit purple, then round the corner the crowd by the cinemas and a long rank of bicycles.",
+    "iso_date": "2026-07-07T09:00:00+02:00",
+    "date": "7 July 2026",
+    "thumb": "osaka-umeda-night/cover.jpg",
+    "tags": [
+      "osaka",
+      "japan",
+      "street",
+      "night",
+      "umeda"
+    ],
+    "place": "Umeda, Osaka",
+    "coords": [
+      34.7025,
+      135.4959
+    ]
+  },
+  {
     "slug": "tokyo-katana",
     "title": "Behind glass",
     "excerpt": "A katana in a gold-lacquer scabbard, resting on cream silk and lit out of the dark. The last frame of the trip, and the quietest.",
