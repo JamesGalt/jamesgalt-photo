@@ -5,7 +5,18 @@
   <link rel="self" type="application/atom+xml" href="https://www.jamesgalt.photo/journal/feed.xml"/>
   <id>https://www.jamesgalt.photo/journal/</id>
   <author><name>James Galt</name></author>
-<updated>2026-07-08T09:00:00+02:00</updated>  <entry>
+<updated>2026-07-08T19:00:00+02:00</updated>  <entry>
+    <title>Osaka Castle</title>
+    <link href="https://www.jamesgalt.photo/journal/osaka-castle/"/>
+    <id>https://www.jamesgalt.photo/journal/osaka-castle/</id>
+    <updated>2026-07-08T19:00:00+02:00</updated>
+<category term="osaka"/>
+<category term="japan"/>
+<category term="architecture"/>
+<category term="castle"/>
+<category term="autumn"/>
+<summary>The moat with the old stone wall on one side and the Business Park towers on the other, then the keep itself, gold in the low sun. An afternoon at Osaka Castle.</summary>  </entry>
+  <entry>
     <title>The escalator tube</title>
     <link href="https://www.jamesgalt.photo/journal/osaka-umeda-escalator/"/>
     <id>https://www.jamesgalt.photo/journal/osaka-umeda-escalator/</id>

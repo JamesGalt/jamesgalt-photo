@@ -1,5 +1,25 @@
 [
   {
+    "slug": "osaka-castle",
+    "title": "Osaka Castle",
+    "excerpt": "The moat with the old stone wall on one side and the Business Park towers on the other, then the keep itself, gold in the low sun. An afternoon at Osaka Castle.",
+    "iso_date": "2026-07-08T19:00:00+02:00",
+    "date": "8 July 2026",
+    "thumb": "osaka-castle/cover.jpg",
+    "tags": [
+      "osaka",
+      "japan",
+      "architecture",
+      "castle",
+      "autumn"
+    ],
+    "place": "Osaka Castle",
+    "coords": [
+      34.6873,
+      135.5259
+    ]
+  },
+  {
     "slug": "osaka-umeda-escalator",
     "title": "The escalator tube",
     "excerpt": "A glass escalator tube slung between the two towers, blue-lit ribs the whole way and the gold of the next floor at the end. The best bit of the climb up the Umeda Sky Building.",
