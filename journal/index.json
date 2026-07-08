@@ -1,5 +1,25 @@
 [
   {
+    "slug": "osaka-umeda-escalator",
+    "title": "The escalator tube",
+    "excerpt": "A glass escalator tube slung between the two towers, blue-lit ribs the whole way and the gold of the next floor at the end. The best bit of the climb up the Umeda Sky Building.",
+    "iso_date": "2026-07-08T09:00:00+02:00",
+    "date": "8 July 2026",
+    "thumb": "osaka-umeda-escalator/cover.jpg",
+    "tags": [
+      "osaka",
+      "japan",
+      "architecture",
+      "night",
+      "umeda"
+    ],
+    "place": "Umeda Sky Building, Osaka",
+    "coords": [
+      34.7052,
+      135.49
+    ]
+  },
+  {
     "slug": "osaka-umeda-sky-building",
     "title": "Umeda Sky Building",
     "excerpt": "The ring lit gold, the escalators crossing the gap, the sky bridge glowing blue, then the city it was built to look at, laid out in the dark. Up the Umeda Sky Building after sunset.",
