@@ -1,5 +1,25 @@
 [
   {
+    "slug": "osaka-castle-golden",
+    "title": "Last light around the walls",
+    "excerpt": "The park gone red and gold along the moat, a tower catching the sunset across the water, then the keep over the ramparts with the crows coming in. The last of the light, and of the trip.",
+    "iso_date": "2026-07-09T19:00:00+02:00",
+    "date": "9 July 2026",
+    "thumb": "osaka-castle-golden/cover.jpg",
+    "tags": [
+      "osaka",
+      "japan",
+      "landscape",
+      "castle",
+      "golden-hour"
+    ],
+    "place": "Osaka Castle",
+    "coords": [
+      34.6873,
+      135.5259
+    ]
+  },
+  {
     "slug": "osaka-castle-views",
     "title": "From the top of the keep",
     "excerpt": "The city going gold to the mountains, and one of the castle's golden shachihoko in the corner, the rooftop ornament you usually only see from below. The view from the top of Osaka Castle.",
