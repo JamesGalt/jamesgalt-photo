@@ -1,5 +1,24 @@
 [
   {
+    "slug": "kyoto-yasaka",
+    "title": "Yasaka Shrine",
+    "excerpt": "The big cypress-bark hall, a couple in formal dress reading their fortune on a red bench, and a chozuya where the water runs straight onto the moss. A quiet morning at Yasaka.",
+    "iso_date": "2026-07-10T19:00:00+02:00",
+    "date": "10 July 2026",
+    "thumb": "kyoto-yasaka/cover.jpg",
+    "tags": [
+      "kyoto",
+      "japan",
+      "shrine",
+      "yasaka"
+    ],
+    "place": "Yasaka Shrine, Kyoto",
+    "coords": [
+      35.0036,
+      135.7785
+    ]
+  },
+  {
     "slug": "kyoto-river-gion",
     "title": "Kamo River, into Gion",
     "excerpt": "Walking in along the Kamo River with the machiya backed up to the water, then into Gion as the light came through. First morning in Kyoto.",
