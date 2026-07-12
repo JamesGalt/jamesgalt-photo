@@ -1,5 +1,25 @@
 [
   {
+    "slug": "kyoto-kiyomizu",
+    "title": "Up to Kiyomizu",
+    "excerpt": "A rainbow over the Higashiyama rooftops on the climb up, then the city framed through the vermilion pillars and the pagoda with half of Kyoto at its feet. Kiyomizu in the late sun.",
+    "iso_date": "2026-07-12T09:00:00+02:00",
+    "date": "12 July 2026",
+    "thumb": "kyoto-kiyomizu/cover.jpg",
+    "tags": [
+      "kyoto",
+      "japan",
+      "temple",
+      "kiyomizu",
+      "golden-hour"
+    ],
+    "place": "Kiyomizu-dera, Kyoto",
+    "coords": [
+      34.9949,
+      135.785
+    ]
+  },
+  {
     "slug": "kyoto-kennin-ji",
     "title": "Kennin-ji, afternoon",
     "excerpt": "A big Zen hall behind clipped pines, a thatched teahouse among turning maples, and a bronze pilgrim by the bell. A quiet afternoon at Kennin-ji, Kyoto's oldest Zen temple.",
