@@ -1,5 +1,24 @@
 [
   {
+    "slug": "kyoto-dusk",
+    "title": "Dusk over Kyoto",
+    "excerpt": "The sun catching the cloud above the Higashiyama hills, then full dusk from the slope with the city lights coming up and Kyoto Tower the one lit needle in the murk.",
+    "iso_date": "2026-07-13T09:00:00+02:00",
+    "date": "13 July 2026",
+    "thumb": "kyoto-dusk/cover.jpg",
+    "tags": [
+      "kyoto",
+      "japan",
+      "landscape",
+      "dusk"
+    ],
+    "place": "Higashiyama, Kyoto",
+    "coords": [
+      34.998,
+      135.782
+    ]
+  },
+  {
     "slug": "kyoto-kiyomizu-pagoda",
     "title": "Pagoda over the city",
     "excerpt": "Up close the temple is all painted joinery in blue, green and gold; from across the valley, just a red tower above Kyoto. Kiyomizu's pagoda as the light turned.",
