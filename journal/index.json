@@ -1,5 +1,22 @@
 [
   {
+    "slug": "kyoto-nightcap",
+    "title": "Nightcap, Kyoto",
+    "excerpt": "A green one on a dark bar at the end of the day, beside a bottle of Japanese pearl liqueur with the blue settled at the bottom like sediment. A long way from the temples.",
+    "iso_date": "2026-07-13T19:00:00+02:00",
+    "date": "13 July 2026",
+    "thumb": "kyoto-nightcap/cover.jpg",
+    "tags": [
+      "kyoto",
+      "japan",
+      "still-life",
+      "cocktail",
+      "night"
+    ],
+    "place": "Kyoto",
+    "coords": null
+  },
+  {
     "slug": "kyoto-dusk",
     "title": "Dusk over Kyoto",
     "excerpt": "The sun catching the cloud above the Higashiyama hills, then full dusk from the slope with the city lights coming up and Kyoto Tower the one lit needle in the murk.",
