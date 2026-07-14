@@ -1,5 +1,20 @@
 [
   {
+    "slug": "kanazawa-ryokan",
+    "title": "The ryokan room",
+    "excerpt": "A round window cut straight onto a single pine, the interior all warm lamp and the garden going blue behind the glass. First night in Kanazawa.",
+    "iso_date": "2026-07-14T09:00:00+02:00",
+    "date": "14 July 2026",
+    "thumb": "kanazawa-ryokan/cover.jpg",
+    "tags": [
+      "kanazawa",
+      "japan",
+      "ryokan"
+    ],
+    "place": "Kanazawa",
+    "coords": null
+  },
+  {
     "slug": "kyoto-nightcap",
     "title": "Nightcap, Kyoto",
     "excerpt": "A green one on a dark bar at the end of the day, beside a bottle of Japanese pearl liqueur with the blue settled at the bottom like sediment. A long way from the temples.",
