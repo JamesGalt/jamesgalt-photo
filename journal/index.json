@@ -1,5 +1,22 @@
 [
   {
+    "slug": "kanazawa-after-dark",
+    "title": "After dark, Kanazawa",
+    "excerpt": "Glass towers, a hotel bar high over the lights, a negroni built slow, an empty escalator running gold. The contemporary side of Kanazawa, late at night.",
+    "iso_date": "2026-07-15T09:00:00+02:00",
+    "date": "15 July 2026",
+    "thumb": "kanazawa-after-dark/cover.jpg",
+    "tags": [
+      "kanazawa",
+      "japan",
+      "night",
+      "urban",
+      "cocktail"
+    ],
+    "place": "Kanazawa",
+    "coords": null
+  },
+  {
     "slug": "kanazawa-tsuzumi-mon",
     "title": "Warm windows, Kanazawa",
     "excerpt": "The Tsuzumi-mon over the station's glass dome, a sake shop glowing with bottles, a restaurant front full of coloured glass. Kanazawa after dark.",
