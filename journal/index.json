@@ -1,5 +1,25 @@
 [
   {
+    "slug": "kanazawa-kenrokuen-garden",
+    "title": "Kenrokuen, late autumn",
+    "excerpt": "A rainbow over the castle hill with the trees gone gold, then the garden ponds holding the maples upside down. Kenrokuen in late autumn, the weather doing the work.",
+    "iso_date": "2026-07-15T19:00:00+02:00",
+    "date": "15 July 2026",
+    "thumb": "kanazawa-kenrokuen-garden/cover.jpg",
+    "tags": [
+      "kanazawa",
+      "japan",
+      "garden",
+      "kenrokuen",
+      "autumn"
+    ],
+    "place": "Kenrokuen, Kanazawa",
+    "coords": [
+      36.562,
+      136.6624
+    ]
+  },
+  {
     "slug": "kanazawa-after-dark",
     "title": "After dark, Kanazawa",
     "excerpt": "Glass towers, a hotel bar high over the lights, a negroni built slow, an empty escalator running gold. The contemporary side of Kanazawa, late at night.",

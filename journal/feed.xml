@@ -5,7 +5,18 @@
   <link rel="self" type="application/atom+xml" href="https://www.jamesgalt.photo/journal/feed.xml"/>
   <id>https://www.jamesgalt.photo/journal/</id>
   <author><name>James Galt</name></author>
-<updated>2026-07-15T09:00:00+02:00</updated>  <entry>
+<updated>2026-07-15T19:00:00+02:00</updated>  <entry>
+    <title>Kenrokuen, late autumn</title>
+    <link href="https://www.jamesgalt.photo/journal/kanazawa-kenrokuen-garden/"/>
+    <id>https://www.jamesgalt.photo/journal/kanazawa-kenrokuen-garden/</id>
+    <updated>2026-07-15T19:00:00+02:00</updated>
+<category term="kanazawa"/>
+<category term="japan"/>
+<category term="garden"/>
+<category term="kenrokuen"/>
+<category term="autumn"/>
+<summary>A rainbow over the castle hill with the trees gone gold, then the garden ponds holding the maples upside down. Kenrokuen in late autumn, the weather doing the work.</summary>  </entry>
+  <entry>
     <title>After dark, Kanazawa</title>
     <link href="https://www.jamesgalt.photo/journal/kanazawa-after-dark/"/>
     <id>https://www.jamesgalt.photo/journal/kanazawa-after-dark/</id>
