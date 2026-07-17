@@ -1,5 +1,25 @@
 [
   {
+    "slug": "kanazawa-kenrokuen-reflection",
+    "title": "Kenrokuen at dusk",
+    "excerpt": "A yukitsuri cone doubled in the still pond with the sunset behind it, a stone lantern lit in the trees. The last of the day at Kenrokuen, the garden at its quietest.",
+    "iso_date": "2026-07-17T09:00:00+02:00",
+    "date": "17 July 2026",
+    "thumb": "kanazawa-kenrokuen-reflection/cover.jpg",
+    "tags": [
+      "kanazawa",
+      "japan",
+      "garden",
+      "kenrokuen",
+      "dusk"
+    ],
+    "place": "Kenrokuen, Kanazawa",
+    "coords": [
+      36.562,
+      136.6624
+    ]
+  },
+  {
     "slug": "kanazawa-kenrokuen-yukitsuri",
     "title": "Rigging for winter",
     "excerpt": "Yukitsuri, the rope cones that hold Kenrokuen's pines up under heavy snow, going on tree by tree. A man up a ladder, and the finished cones against the dusk.",
