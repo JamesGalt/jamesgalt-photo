@@ -1,5 +1,25 @@
 [
   {
+    "slug": "kanazawa-omicho-market",
+    "title": "Omicho Market",
+    "excerpt": "A bed of local oysters on ice with the prices stuck in, baskets of seaweed down the side, the whole covered arcade humming under green and yellow awnings. Kanazawa's kitchen.",
+    "iso_date": "2026-07-17T19:00:00+02:00",
+    "date": "17 July 2026",
+    "thumb": "kanazawa-omicho-market/cover.jpg",
+    "tags": [
+      "kanazawa",
+      "japan",
+      "market",
+      "food",
+      "street"
+    ],
+    "place": "Omicho Market, Kanazawa",
+    "coords": [
+      36.5715,
+      136.6565
+    ]
+  },
+  {
     "slug": "kanazawa-kenrokuen-reflection",
     "title": "Kenrokuen at dusk",
     "excerpt": "A yukitsuri cone doubled in the still pond with the sunset behind it, a stone lantern lit in the trees. The last of the day at Kenrokuen, the garden at its quietest.",
