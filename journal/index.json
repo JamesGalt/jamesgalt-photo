@@ -1,5 +1,25 @@
 [
   {
+    "slug": "tokyo-skytree-tower",
+    "title": "The Skytree, day to night",
+    "excerpt": "The tower from the street with a crane for company, straight up the lattice, the blue guts of it, then lit green and gold after dark. Back where the trip started, this time going up.",
+    "iso_date": "2026-07-18T19:00:00+02:00",
+    "date": "18 July 2026",
+    "thumb": "tokyo-skytree-tower/cover.jpg",
+    "tags": [
+      "tokyo",
+      "japan",
+      "urban",
+      "skytree",
+      "night"
+    ],
+    "place": "Tokyo Skytree",
+    "coords": [
+      35.7101,
+      139.8107
+    ]
+  },
+  {
     "slug": "kanazawa-bridge",
     "title": "The bridge at dusk",
     "excerpt": "The old green truss lit amber against a deep blue sky, the lamps coming on, the river town behind. Kanazawa, and the trip, signing off.",
