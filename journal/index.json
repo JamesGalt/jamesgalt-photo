@@ -1,5 +1,25 @@
 [
   {
+    "slug": "kanazawa-bridge",
+    "title": "The bridge at dusk",
+    "excerpt": "The old green truss lit amber against a deep blue sky, the lamps coming on, the river town behind. Kanazawa, and the trip, signing off.",
+    "iso_date": "2026-07-18T09:00:00+02:00",
+    "date": "18 July 2026",
+    "thumb": "kanazawa-bridge/cover.jpg",
+    "tags": [
+      "kanazawa",
+      "japan",
+      "urban",
+      "bridge",
+      "dusk"
+    ],
+    "place": "Asano River, Kanazawa",
+    "coords": [
+      36.5736,
+      136.6646
+    ]
+  },
+  {
     "slug": "kanazawa-omicho-market",
     "title": "Omicho Market",
     "excerpt": "A bed of local oysters on ice with the prices stuck in, baskets of seaweed down the side, the whole covered arcade humming under green and yellow awnings. Kanazawa's kitchen.",
