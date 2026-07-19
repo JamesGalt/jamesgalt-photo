@@ -1,5 +1,25 @@
 [
   {
+    "slug": "tokyo-last-days",
+    "title": "Last frames, Japan",
+    "excerpt": "A wall of apartment balconies glowing on the last night, then people riding the escalators up behind a glass front the next afternoon. The last two frames of the trip.",
+    "iso_date": "2026-07-19T19:00:00+02:00",
+    "date": "19 July 2026",
+    "thumb": "tokyo-last-days/cover.jpg",
+    "tags": [
+      "tokyo",
+      "japan",
+      "urban",
+      "street",
+      "ginza"
+    ],
+    "place": "Ginza, Tokyo",
+    "coords": [
+      35.6717,
+      139.765
+    ]
+  },
+  {
     "slug": "tokyo-skytree-views",
     "title": "Tokyo from the top",
     "excerpt": "Fuji cut out on the orange horizon, the Sumida threading the city in lit bridges, a single floodlit ball field burning in the dark. Tokyo from the top of the Skytree as the sun went.",
