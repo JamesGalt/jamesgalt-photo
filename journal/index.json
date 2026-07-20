@@ -1,5 +1,24 @@
 [
   {
+    "slug": "windermere-bowness-village",
+    "title": "Bowness, in red",
+    "excerpt": "A phone box above the rooftops and a Triumph Stag by the Belsfield hedge. Two reds, five minutes apart.",
+    "iso_date": "2026-07-20T09:00:00+02:00",
+    "date": "20 July 2026",
+    "thumb": "windermere-bowness-village/cover.jpg",
+    "tags": [
+      "travel",
+      "lake-district",
+      "cumbria",
+      "bowness"
+    ],
+    "place": "Bowness-on-Windermere, Cumbria",
+    "coords": [
+      54.3653,
+      -2.918
+    ]
+  },
+  {
     "slug": "tokyo-last-days",
     "title": "Last frames, Japan",
     "excerpt": "A wall of apartment balconies glowing on the last night, then people riding the escalators up behind a glass front the next afternoon. The last two frames of the trip.",
