@@ -1,5 +1,24 @@
 [
   {
+    "slug": "windermere-lake-moods",
+    "title": "Windermere, four moods",
+    "excerpt": "One grey afternoon on the shore of Windermere: a stony foreshore, two jetties, and a bare lakeside tree holding its ground.",
+    "iso_date": "2026-07-21T19:00:00+02:00",
+    "date": "21 July 2026",
+    "thumb": "windermere-lake-moods/cover.jpg",
+    "tags": [
+      "landscape",
+      "lake-district",
+      "cumbria",
+      "windermere"
+    ],
+    "place": "Windermere, Cumbria",
+    "coords": [
+      54.38,
+      -2.94
+    ]
+  },
+  {
     "slug": "windermere-coin-log",
     "title": "The wishing log",
     "excerpt": "A fallen trunk studded with coins hammered edge-on into the grain, turned copper and green with age. A Lakeland habit, one coin at a time.",
