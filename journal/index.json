@@ -1,5 +1,24 @@
 [
   {
+    "slug": "windermere-coin-log",
+    "title": "The wishing log",
+    "excerpt": "A fallen trunk studded with coins hammered edge-on into the grain, turned copper and green with age. A Lakeland habit, one coin at a time.",
+    "iso_date": "2026-07-21T09:00:00+02:00",
+    "date": "21 July 2026",
+    "thumb": "windermere-coin-log/cover.jpg",
+    "tags": [
+      "nature",
+      "lake-district",
+      "cumbria",
+      "detail"
+    ],
+    "place": "Windermere, Cumbria",
+    "coords": [
+      54.3596,
+      -2.9307
+    ]
+  },
+  {
     "slug": "windermere-bowness-boats",
     "title": "Rowing boats, Bowness Bay",
     "excerpt": "Wooden hire boats pulled up on the shingle at Bowness in the rain, red keels showing, the launches waiting behind.",
