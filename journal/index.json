@@ -1,5 +1,24 @@
 [
   {
+    "slug": "windermere-garden-dusk",
+    "title": "Garden to dusk",
+    "excerpt": "Pale tulips in the afternoon, the same tulips at dusk, and the sun finally dropping under the cloud over the fells.",
+    "iso_date": "2026-07-22T19:00:00+02:00",
+    "date": "22 July 2026",
+    "thumb": "windermere-garden-dusk/cover.jpg",
+    "tags": [
+      "landscape",
+      "lake-district",
+      "cumbria",
+      "flowers"
+    ],
+    "place": "Windermere, Cumbria",
+    "coords": [
+      54.374,
+      -2.91
+    ]
+  },
+  {
     "slug": "windermere-swaledale-sheep",
     "title": "Swaledale",
     "excerpt": "A horned Swaledale ewe on cropped green grass, deciding whether I was worth moving for.",

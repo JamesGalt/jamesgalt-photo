@@ -5,7 +5,17 @@
   <link rel="self" type="application/atom+xml" href="https://www.jamesgalt.photo/journal/feed.xml"/>
   <id>https://www.jamesgalt.photo/journal/</id>
   <author><name>James Galt</name></author>
-<updated>2026-07-22T09:00:00+02:00</updated>  <entry>
+<updated>2026-07-22T19:00:00+02:00</updated>  <entry>
+    <title>Garden to dusk</title>
+    <link href="https://www.jamesgalt.photo/journal/windermere-garden-dusk/"/>
+    <id>https://www.jamesgalt.photo/journal/windermere-garden-dusk/</id>
+    <updated>2026-07-22T19:00:00+02:00</updated>
+<category term="landscape"/>
+<category term="lake-district"/>
+<category term="cumbria"/>
+<category term="flowers"/>
+<summary>Pale tulips in the afternoon, the same tulips at dusk, and the sun finally dropping under the cloud over the fells.</summary>  </entry>
+  <entry>
     <title>Swaledale</title>
     <link href="https://www.jamesgalt.photo/journal/windermere-swaledale-sheep/"/>
     <id>https://www.jamesgalt.photo/journal/windermere-swaledale-sheep/</id>
