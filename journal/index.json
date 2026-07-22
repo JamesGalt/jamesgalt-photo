@@ -1,5 +1,24 @@
 [
   {
+    "slug": "windermere-swaledale-sheep",
+    "title": "Swaledale",
+    "excerpt": "A horned Swaledale ewe on cropped green grass, deciding whether I was worth moving for.",
+    "iso_date": "2026-07-22T09:00:00+02:00",
+    "date": "22 July 2026",
+    "thumb": "windermere-swaledale-sheep/cover.jpg",
+    "tags": [
+      "animals",
+      "lake-district",
+      "cumbria",
+      "sheep"
+    ],
+    "place": "Grasmere, Cumbria",
+    "coords": [
+      54.459,
+      -3.0244
+    ]
+  },
+  {
     "slug": "windermere-lake-moods",
     "title": "Windermere, four moods",
     "excerpt": "One grey afternoon on the shore of Windermere: a stony foreshore, two jetties, and a bare lakeside tree holding its ground.",
