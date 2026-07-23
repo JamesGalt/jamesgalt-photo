@@ -1,5 +1,24 @@
 [
   {
+    "slug": "grasmere-arrival",
+    "title": "Grasmere, first morning",
+    "excerpt": "A yacht on flat grey water and a pointed fell rising over the cottages. The first morning in Grasmere, under cloud.",
+    "iso_date": "2026-07-23T09:00:00+02:00",
+    "date": "23 July 2026",
+    "thumb": "grasmere-arrival/cover.jpg",
+    "tags": [
+      "landscape",
+      "lake-district",
+      "cumbria",
+      "grasmere"
+    ],
+    "place": "Grasmere, Cumbria",
+    "coords": [
+      54.459,
+      -3.0244
+    ]
+  },
+  {
     "slug": "windermere-garden-dusk",
     "title": "Garden to dusk",
     "excerpt": "Pale tulips in the afternoon, the same tulips at dusk, and the sun finally dropping under the cloud over the fells.",
