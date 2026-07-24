@@ -1,5 +1,24 @@
 [
   {
+    "slug": "grasmere-stone",
+    "title": "Stone, two ways",
+    "excerpt": "Stepping stones set across a beck and a drystone wall along a field edge. Two old uses of Lakeland stone.",
+    "iso_date": "2026-07-24T19:00:00+02:00",
+    "date": "24 July 2026",
+    "thumb": "grasmere-stone/cover.jpg",
+    "tags": [
+      "landscape",
+      "lake-district",
+      "cumbria",
+      "stone"
+    ],
+    "place": "Grasmere, Cumbria",
+    "coords": [
+      54.459,
+      -3.0244
+    ]
+  },
+  {
     "slug": "grasmere-woodland",
     "title": "In the woods above the lake",
     "excerpt": "A great mossy beech and an old ice house cut into the bank, found on a path above the water.",
