@@ -1,5 +1,24 @@
 [
   {
+    "slug": "rydal-water",
+    "title": "Rydal Water, clear hour",
+    "excerpt": "Rydal Water under the one blue sky of the trip: reed-fringed, low islands, the fells out at last.",
+    "iso_date": "2026-07-25T19:00:00+02:00",
+    "date": "25 July 2026",
+    "thumb": "rydal-water/cover.jpg",
+    "tags": [
+      "landscape",
+      "lake-district",
+      "cumbria",
+      "rydal-water"
+    ],
+    "place": "Rydal Water, Cumbria",
+    "coords": [
+      54.448,
+      -2.998
+    ]
+  },
+  {
     "slug": "grasmere-boats",
     "title": "Grasmere's fleet",
     "excerpt": "Painted hire boats moored along the shore at Grasmere, a swan working the waterline. Waiting for the season to start.",
