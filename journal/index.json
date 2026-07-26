@@ -1,5 +1,24 @@
 [
   {
+    "slug": "bowness-bay-morning",
+    "title": "Bowness Bay, morning sun",
+    "excerpt": "The same bay a few days on, this time in morning sun: rowing boats bright on the shingle, swans working the shallows.",
+    "iso_date": "2026-07-26T09:00:00+02:00",
+    "date": "26 July 2026",
+    "thumb": "bowness-bay-morning/cover.jpg",
+    "tags": [
+      "landscape",
+      "lake-district",
+      "cumbria",
+      "bowness"
+    ],
+    "place": "Bowness-on-Windermere, Cumbria",
+    "coords": [
+      54.3653,
+      -2.918
+    ]
+  },
+  {
     "slug": "rydal-water",
     "title": "Rydal Water, clear hour",
     "excerpt": "Rydal Water under the one blue sky of the trip: reed-fringed, low islands, the fells out at last.",
