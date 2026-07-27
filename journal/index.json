@@ -1,5 +1,24 @@
 [
   {
+    "slug": "lakeside-house",
+    "title": "The house on the point",
+    "excerpt": "A house set on its own wooded promontory at the southern, quieter end of Windermere, still water in front.",
+    "iso_date": "2026-07-27T19:00:00+02:00",
+    "date": "27 July 2026",
+    "thumb": "lakeside-house/cover.jpg",
+    "tags": [
+      "landscape",
+      "lake-district",
+      "cumbria",
+      "windermere"
+    ],
+    "place": "Windermere, Cumbria",
+    "coords": [
+      54.3,
+      -2.95
+    ]
+  },
+  {
     "slug": "windermere-church",
     "title": "Slate and blue",
     "excerpt": "Evening light on a slate-built church and its old headstones, the window frames picked out in blue.",
