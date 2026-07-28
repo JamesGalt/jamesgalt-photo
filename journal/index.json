@@ -1,5 +1,24 @@
 [
   {
+    "slug": "lakeside-steam-railway",
+    "title": "The Haverthwaite line",
+    "excerpt": "A maroon steam tank engine easing under an iron footbridge, the driver leaning out. Last morning on the Lakeside and Haverthwaite Railway.",
+    "iso_date": "2026-07-28T09:00:00+02:00",
+    "date": "28 July 2026",
+    "thumb": "lakeside-steam-railway/cover.jpg",
+    "tags": [
+      "railway",
+      "lake-district",
+      "cumbria",
+      "steam"
+    ],
+    "place": "Lakeside & Haverthwaite Railway, Cumbria",
+    "coords": [
+      54.276,
+      -2.954
+    ]
+  },
+  {
     "slug": "lakeside-house",
     "title": "The house on the point",
     "excerpt": "A house set on its own wooded promontory at the southern, quieter end of Windermere, still water in front.",
