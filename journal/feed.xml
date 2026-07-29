@@ -5,7 +5,17 @@
   <link rel="self" type="application/atom+xml" href="https://www.jamesgalt.photo/journal/feed.xml"/>
   <id>https://www.jamesgalt.photo/journal/</id>
   <author><name>James Galt</name></author>
-<updated>2026-07-29T09:00:00+02:00</updated>  <entry>
+<updated>2026-07-29T19:00:00+02:00</updated>  <entry>
+    <title>Côte Vermeille, grey morning</title>
+    <link href="https://www.jamesgalt.photo/journal/cote-vermeille-morning/"/>
+    <id>https://www.jamesgalt.photo/journal/cote-vermeille-morning/</id>
+    <updated>2026-07-29T19:00:00+02:00</updated>
+<category term="landscape"/>
+<category term="france"/>
+<category term="cote-vermeille"/>
+<category term="coast"/>
+<summary>The rocky coast near Banyuls under low cloud: coves, umbrella pines, and a single yacht far out on a flat sea.</summary>  </entry>
+  <entry>
     <title>Arrival, Roussillon</title>
     <link href="https://www.jamesgalt.photo/journal/roussillon-arrival/"/>
     <id>https://www.jamesgalt.photo/journal/roussillon-arrival/</id>

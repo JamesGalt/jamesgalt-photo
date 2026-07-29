@@ -1,5 +1,24 @@
 [
   {
+    "slug": "cote-vermeille-morning",
+    "title": "C\u00f4te Vermeille, grey morning",
+    "excerpt": "The rocky coast near Banyuls under low cloud: coves, umbrella pines, and a single yacht far out on a flat sea.",
+    "iso_date": "2026-07-29T19:00:00+02:00",
+    "date": "29 July 2026",
+    "thumb": "cote-vermeille-morning/cover.jpg",
+    "tags": [
+      "landscape",
+      "france",
+      "cote-vermeille",
+      "coast"
+    ],
+    "place": "C\u00f4te Vermeille, Banyuls-sur-Mer",
+    "coords": [
+      42.482,
+      3.129
+    ]
+  },
+  {
     "slug": "roussillon-arrival",
     "title": "Arrival, Roussillon",
     "excerpt": "First evening in French Catalonia. A dog with a lake to himself and a cat with the best seat in the village.",
