@@ -1,5 +1,21 @@
 [
   {
+    "slug": "roussillon-arrival",
+    "title": "Arrival, Roussillon",
+    "excerpt": "First evening in French Catalonia. A dog with a lake to himself and a cat with the best seat in the village.",
+    "iso_date": "2026-07-29T09:00:00+02:00",
+    "date": "29 July 2026",
+    "thumb": "roussillon-arrival/cover.jpg",
+    "tags": [
+      "travel",
+      "france",
+      "roussillon",
+      "animals"
+    ],
+    "place": "",
+    "coords": null
+  },
+  {
     "slug": "lakeside-steam-railway",
     "title": "The Haverthwaite line",
     "excerpt": "A maroon steam tank engine easing under an iron footbridge, the driver leaning out. Last morning on the Lakeside and Haverthwaite Railway.",

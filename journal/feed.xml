@@ -5,7 +5,17 @@
   <link rel="self" type="application/atom+xml" href="https://www.jamesgalt.photo/journal/feed.xml"/>
   <id>https://www.jamesgalt.photo/journal/</id>
   <author><name>James Galt</name></author>
-<updated>2026-07-28T09:00:00+02:00</updated>  <entry>
+<updated>2026-07-29T09:00:00+02:00</updated>  <entry>
+    <title>Arrival, Roussillon</title>
+    <link href="https://www.jamesgalt.photo/journal/roussillon-arrival/"/>
+    <id>https://www.jamesgalt.photo/journal/roussillon-arrival/</id>
+    <updated>2026-07-29T09:00:00+02:00</updated>
+<category term="travel"/>
+<category term="france"/>
+<category term="roussillon"/>
+<category term="animals"/>
+<summary>First evening in French Catalonia. A dog with a lake to himself and a cat with the best seat in the village.</summary>  </entry>
+  <entry>
     <title>The Haverthwaite line</title>
     <link href="https://www.jamesgalt.photo/journal/lakeside-steam-railway/"/>
     <id>https://www.jamesgalt.photo/journal/lakeside-steam-railway/</id>
