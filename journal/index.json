@@ -1,5 +1,24 @@
 [
   {
+    "slug": "salses-fort-inside-1",
+    "title": "Inside Salses: the courtyard",
+    "excerpt": "Within the walls of the fortress: an oven cut into the stone, a courtyard with its own well, and brick arcades running off into shadow.",
+    "iso_date": "2026-07-30T19:00:00+02:00",
+    "date": "30 July 2026",
+    "thumb": "salses-fort-inside-1/cover.jpg",
+    "tags": [
+      "travel",
+      "france",
+      "fortress",
+      "architecture"
+    ],
+    "place": "Forteresse de Salses, Salses-le-Ch\u00e2teau",
+    "coords": [
+      42.8375,
+      2.916
+    ]
+  },
+  {
     "slug": "salses-fort",
     "title": "Forteresse de Salses",
     "excerpt": "A late-medieval Spanish fortress in pink brick, built low and squat to survive the artillery age. Still standing guard over the Roussillon plain.",
