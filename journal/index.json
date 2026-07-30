@@ -1,5 +1,24 @@
 [
   {
+    "slug": "salses-fort",
+    "title": "Forteresse de Salses",
+    "excerpt": "A late-medieval Spanish fortress in pink brick, built low and squat to survive the artillery age. Still standing guard over the Roussillon plain.",
+    "iso_date": "2026-07-30T09:00:00+02:00",
+    "date": "30 July 2026",
+    "thumb": "salses-fort/cover.jpg",
+    "tags": [
+      "travel",
+      "france",
+      "fortress",
+      "salses"
+    ],
+    "place": "Forteresse de Salses, Salses-le-Ch\u00e2teau",
+    "coords": [
+      42.8375,
+      2.916
+    ]
+  },
+  {
     "slug": "cote-vermeille-morning",
     "title": "C\u00f4te Vermeille, grey morning",
     "excerpt": "The rocky coast near Banyuls under low cloud: coves, umbrella pines, and a single yacht far out on a flat sea.",

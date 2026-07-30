@@ -5,7 +5,17 @@
   <link rel="self" type="application/atom+xml" href="https://www.jamesgalt.photo/journal/feed.xml"/>
   <id>https://www.jamesgalt.photo/journal/</id>
   <author><name>James Galt</name></author>
-<updated>2026-07-29T19:00:00+02:00</updated>  <entry>
+<updated>2026-07-30T09:00:00+02:00</updated>  <entry>
+    <title>Forteresse de Salses</title>
+    <link href="https://www.jamesgalt.photo/journal/salses-fort/"/>
+    <id>https://www.jamesgalt.photo/journal/salses-fort/</id>
+    <updated>2026-07-30T09:00:00+02:00</updated>
+<category term="travel"/>
+<category term="france"/>
+<category term="fortress"/>
+<category term="salses"/>
+<summary>A late-medieval Spanish fortress in pink brick, built low and squat to survive the artillery age. Still standing guard over the Roussillon plain.</summary>  </entry>
+  <entry>
     <title>Côte Vermeille, grey morning</title>
     <link href="https://www.jamesgalt.photo/journal/cote-vermeille-morning/"/>
     <id>https://www.jamesgalt.photo/journal/cote-vermeille-morning/</id>
