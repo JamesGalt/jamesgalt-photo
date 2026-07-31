@@ -1,5 +1,24 @@
 [
   {
+    "slug": "salses-fort-inside-2",
+    "title": "Inside Salses: the dark rooms",
+    "excerpt": "Deeper into the fortress, where the light runs out: a brick tunnel, an arcaded passage, and a vaulted chamber lit by one small window.",
+    "iso_date": "2026-07-31T09:00:00+02:00",
+    "date": "31 July 2026",
+    "thumb": "salses-fort-inside-2/cover.jpg",
+    "tags": [
+      "travel",
+      "france",
+      "fortress",
+      "architecture"
+    ],
+    "place": "Forteresse de Salses, Salses-le-Ch\u00e2teau",
+    "coords": [
+      42.8375,
+      2.916
+    ]
+  },
+  {
     "slug": "salses-fort-inside-1",
     "title": "Inside Salses: the courtyard",
     "excerpt": "Within the walls of the fortress: an oven cut into the stone, a courtyard with its own well, and brick arcades running off into shadow.",
