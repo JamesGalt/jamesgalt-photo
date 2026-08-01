@@ -1,5 +1,24 @@
 [
   {
+    "slug": "perpignan-palace-1",
+    "title": "Palais des Rois de Majorque",
+    "excerpt": "The fortified hilltop palace of the medieval kings of Majorca, in Perpignan: a brick ramp, a galleried courtyard, and a chapel framed in a Gothic arch.",
+    "iso_date": "2026-08-01T09:00:00+02:00",
+    "date": "1 August 2026",
+    "thumb": "perpignan-palace-1/cover.jpg",
+    "tags": [
+      "travel",
+      "france",
+      "perpignan",
+      "architecture"
+    ],
+    "place": "Palais des Rois de Majorque, Perpignan",
+    "coords": [
+      42.6952,
+      2.8956
+    ]
+  },
+  {
     "slug": "leucate-coast-storm",
     "title": "Leucate, before the rain",
     "excerpt": "The lagoon and marina at Leucate as a storm built over the coast, and a modern church holding its own against the sky.",
