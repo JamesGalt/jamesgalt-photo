@@ -1,5 +1,24 @@
 [
   {
+    "slug": "perpignan-palace-2",
+    "title": "The palace, inside",
+    "excerpt": "The great hall of the Palais des Rois de Majorque, a deep window onto the Canigou, and the small details underfoot.",
+    "iso_date": "2026-08-01T19:00:00+02:00",
+    "date": "1 August 2026",
+    "thumb": "perpignan-palace-2/cover.jpg",
+    "tags": [
+      "travel",
+      "france",
+      "perpignan",
+      "architecture"
+    ],
+    "place": "Palais des Rois de Majorque, Perpignan",
+    "coords": [
+      42.6952,
+      2.8956
+    ]
+  },
+  {
     "slug": "perpignan-palace-1",
     "title": "Palais des Rois de Majorque",
     "excerpt": "The fortified hilltop palace of the medieval kings of Majorca, in Perpignan: a brick ramp, a galleried courtyard, and a chapel framed in a Gothic arch.",
