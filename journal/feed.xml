@@ -5,7 +5,17 @@
   <link rel="self" type="application/atom+xml" href="https://www.jamesgalt.photo/journal/feed.xml"/>
   <id>https://www.jamesgalt.photo/journal/</id>
   <author><name>James Galt</name></author>
-<updated>2026-08-02T09:00:00+02:00</updated>  <entry>
+<updated>2026-08-02T19:00:00+02:00</updated>  <entry>
+    <title>Perpignan, three ways</title>
+    <link href="https://www.jamesgalt.photo/journal/perpignan-campo-santo/"/>
+    <id>https://www.jamesgalt.photo/journal/perpignan-campo-santo/</id>
+    <updated>2026-08-02T19:00:00+02:00</updated>
+<category term="travel"/>
+<category term="france"/>
+<category term="perpignan"/>
+<category term="street-art"/>
+<summary>An afternoon across Perpignan: a street-art Dali, the vast marble cloister of the Campo Santo, and a Maillol bronze in the town-hall courtyard.</summary>  </entry>
+  <entry>
     <title>The palace chapel</title>
     <link href="https://www.jamesgalt.photo/journal/perpignan-palace-3/"/>
     <id>https://www.jamesgalt.photo/journal/perpignan-palace-3/</id>

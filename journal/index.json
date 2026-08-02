@@ -1,5 +1,24 @@
 [
   {
+    "slug": "perpignan-campo-santo",
+    "title": "Perpignan, three ways",
+    "excerpt": "An afternoon across Perpignan: a street-art Dali, the vast marble cloister of the Campo Santo, and a Maillol bronze in the town-hall courtyard.",
+    "iso_date": "2026-08-02T19:00:00+02:00",
+    "date": "2 August 2026",
+    "thumb": "perpignan-campo-santo/cover.jpg",
+    "tags": [
+      "travel",
+      "france",
+      "perpignan",
+      "street-art"
+    ],
+    "place": "Perpignan, Pyr\u00e9n\u00e9es-Orientales",
+    "coords": [
+      42.6986,
+      2.8956
+    ]
+  },
+  {
     "slug": "perpignan-palace-3",
     "title": "The palace chapel",
     "excerpt": "The royal chapel of the Palais des Rois de Majorque: a star-painted vault, worn frescoes, and stained glass holding the last of the light.",
