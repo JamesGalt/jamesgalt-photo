@@ -1,5 +1,24 @@
 [
   {
+    "slug": "perpignan-palace-3",
+    "title": "The palace chapel",
+    "excerpt": "The royal chapel of the Palais des Rois de Majorque: a star-painted vault, worn frescoes, and stained glass holding the last of the light.",
+    "iso_date": "2026-08-02T09:00:00+02:00",
+    "date": "2 August 2026",
+    "thumb": "perpignan-palace-3/cover.jpg",
+    "tags": [
+      "travel",
+      "france",
+      "perpignan",
+      "architecture"
+    ],
+    "place": "Palais des Rois de Majorque, Perpignan",
+    "coords": [
+      42.6952,
+      2.8956
+    ]
+  },
+  {
     "slug": "perpignan-palace-2",
     "title": "The palace, inside",
     "excerpt": "The great hall of the Palais des Rois de Majorque, a deep window onto the Canigou, and the small details underfoot.",
