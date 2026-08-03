@@ -1,5 +1,24 @@
 [
   {
+    "slug": "cote-vermeille-evening-1",
+    "title": "Vineyards to the sea",
+    "excerpt": "Late light on the C\u00f4te Vermeille, where the vineyards are terraced right down to the cliffs and a hill town catches the last of the day.",
+    "iso_date": "2026-08-03T19:00:00+02:00",
+    "date": "3 August 2026",
+    "thumb": "cote-vermeille-evening-1/cover.jpg",
+    "tags": [
+      "landscape",
+      "france",
+      "cote-vermeille",
+      "vineyards"
+    ],
+    "place": "C\u00f4te Vermeille, Pyr\u00e9n\u00e9es-Orientales",
+    "coords": [
+      42.51,
+      3.1
+    ]
+  },
+  {
     "slug": "perpignan-art-nouveau",
     "title": "Perpignan facades",
     "excerpt": "The city's early-twentieth-century architecture: a bold orange villa, a blue-and-yellow house, and the Art Nouveau ironwork of the old Caisse d'Epargne.",
