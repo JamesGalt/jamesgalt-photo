@@ -5,7 +5,17 @@
   <link rel="self" type="application/atom+xml" href="https://www.jamesgalt.photo/journal/feed.xml"/>
   <id>https://www.jamesgalt.photo/journal/</id>
   <author><name>James Galt</name></author>
-<updated>2026-08-04T09:00:00+02:00</updated>  <entry>
+<updated>2026-08-04T19:00:00+02:00</updated>  <entry>
+    <title>Le Canigou</title>
+    <link href="https://www.jamesgalt.photo/journal/canigou/"/>
+    <id>https://www.jamesgalt.photo/journal/canigou/</id>
+    <updated>2026-08-04T19:00:00+02:00</updated>
+<category term="landscape"/>
+<category term="france"/>
+<category term="canigou"/>
+<category term="mountains"/>
+<summary>The snow still on Canigou in May, rising over the greenhouses and market gardens of the Roussillon plain.</summary>  </entry>
+  <entry>
     <title>The coast, last light</title>
     <link href="https://www.jamesgalt.photo/journal/cote-vermeille-evening-2/"/>
     <id>https://www.jamesgalt.photo/journal/cote-vermeille-evening-2/</id>

@@ -1,5 +1,24 @@
 [
   {
+    "slug": "canigou",
+    "title": "Le Canigou",
+    "excerpt": "The snow still on Canigou in May, rising over the greenhouses and market gardens of the Roussillon plain.",
+    "iso_date": "2026-08-04T19:00:00+02:00",
+    "date": "4 August 2026",
+    "thumb": "canigou/cover.jpg",
+    "tags": [
+      "landscape",
+      "france",
+      "canigou",
+      "mountains"
+    ],
+    "place": "Le Canigou, Pyr\u00e9n\u00e9es-Orientales",
+    "coords": [
+      42.519,
+      2.4566
+    ]
+  },
+  {
     "slug": "cote-vermeille-evening-2",
     "title": "The coast, last light",
     "excerpt": "A working harbour on the C\u00f4te Vermeille, and the one proper sunset of the week over a rocky cove.",
