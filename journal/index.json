@@ -1,5 +1,24 @@
 [
   {
+    "slug": "perpignan-job-building-1",
+    "title": "The JOB building",
+    "excerpt": "Inside the JOB building in Perpignan, the Art Nouveau headquarters of the cigarette-paper firm: an ironwork staircase, painted murals, and gilded panels.",
+    "iso_date": "2026-08-05T19:00:00+02:00",
+    "date": "5 August 2026",
+    "thumb": "perpignan-job-building-1/cover.jpg",
+    "tags": [
+      "architecture",
+      "france",
+      "perpignan",
+      "art-nouveau"
+    ],
+    "place": "The JOB building, Perpignan",
+    "coords": [
+      42.6986,
+      2.8956
+    ]
+  },
+  {
     "slug": "perpignan-cathedral",
     "title": "Cath\u00e9drale Saint-Jean",
     "excerpt": "Inside Perpignan's cathedral: a tall stained-glass window over a gilded altar, and a rose window set high in the shadow of the vault.",
