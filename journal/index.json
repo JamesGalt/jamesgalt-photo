@@ -1,5 +1,21 @@
 [
   {
+    "slug": "garden-flowers",
+    "title": "Garden, in flower",
+    "excerpt": "After a week of fortresses and facades, a morning among the flowers: bird of paradise, powderpuff, and alstroemeria in the southern warmth.",
+    "iso_date": "2026-08-06T09:00:00+02:00",
+    "date": "6 August 2026",
+    "thumb": "garden-flowers/cover.jpg",
+    "tags": [
+      "nature",
+      "flowers",
+      "france",
+      "garden"
+    ],
+    "place": "",
+    "coords": null
+  },
+  {
     "slug": "perpignan-job-building-1",
     "title": "The JOB building",
     "excerpt": "Inside the JOB building in Perpignan, the Art Nouveau headquarters of the cigarette-paper firm: an ironwork staircase, painted murals, and gilded panels.",

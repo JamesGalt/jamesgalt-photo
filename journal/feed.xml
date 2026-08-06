@@ -5,7 +5,17 @@
   <link rel="self" type="application/atom+xml" href="https://www.jamesgalt.photo/journal/feed.xml"/>
   <id>https://www.jamesgalt.photo/journal/</id>
   <author><name>James Galt</name></author>
-<updated>2026-08-05T19:00:00+02:00</updated>  <entry>
+<updated>2026-08-06T09:00:00+02:00</updated>  <entry>
+    <title>Garden, in flower</title>
+    <link href="https://www.jamesgalt.photo/journal/garden-flowers/"/>
+    <id>https://www.jamesgalt.photo/journal/garden-flowers/</id>
+    <updated>2026-08-06T09:00:00+02:00</updated>
+<category term="nature"/>
+<category term="flowers"/>
+<category term="france"/>
+<category term="garden"/>
+<summary>After a week of fortresses and facades, a morning among the flowers: bird of paradise, powderpuff, and alstroemeria in the southern warmth.</summary>  </entry>
+  <entry>
     <title>The JOB building</title>
     <link href="https://www.jamesgalt.photo/journal/perpignan-job-building-1/"/>
     <id>https://www.jamesgalt.photo/journal/perpignan-job-building-1/</id>
