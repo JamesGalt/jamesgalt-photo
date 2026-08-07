@@ -1,5 +1,21 @@
 [
   {
+    "slug": "garden-greens",
+    "title": "Garden greens",
+    "excerpt": "The leaves rather than the flowers: a jade plant against a warm wall and the fresh growth on a young araucaria.",
+    "iso_date": "2026-08-07T19:00:00+02:00",
+    "date": "7 August 2026",
+    "thumb": "garden-greens/cover.jpg",
+    "tags": [
+      "nature",
+      "plants",
+      "france",
+      "garden"
+    ],
+    "place": "",
+    "coords": null
+  },
+  {
     "slug": "banyuls-harbour",
     "title": "Banyuls, boats and cellars",
     "excerpt": "A morning in Banyuls-sur-Mer: painted Catalan fishing boats hauled up ashore, an old winery chimney, and a quiet cove at the end of the coast.",
