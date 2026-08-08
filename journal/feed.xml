@@ -5,7 +5,17 @@
   <link rel="self" type="application/atom+xml" href="https://www.jamesgalt.photo/journal/feed.xml"/>
   <id>https://www.jamesgalt.photo/journal/</id>
   <author><name>James Galt</name></author>
-<updated>2026-08-08T09:00:00+02:00</updated>  <entry>
+<updated>2026-08-08T19:00:00+02:00</updated>  <entry>
+    <title>Céret, the modern note</title>
+    <link href="https://www.jamesgalt.photo/journal/ceret-modern-art/"/>
+    <id>https://www.jamesgalt.photo/journal/ceret-modern-art/</id>
+    <updated>2026-08-08T19:00:00+02:00</updated>
+<category term="art"/>
+<category term="france"/>
+<category term="ceret"/>
+<category term="textiles"/>
+<summary>A last stop in Céret, the little Cubist town: bolts of Catalan striped cloth, and a contemporary gallery of felt cylinders and glass block.</summary>  </entry>
+  <entry>
     <title>Collioure</title>
     <link href="https://www.jamesgalt.photo/journal/collioure/"/>
     <id>https://www.jamesgalt.photo/journal/collioure/</id>
