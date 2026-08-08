@@ -1,5 +1,24 @@
 [
   {
+    "slug": "collioure",
+    "title": "Collioure",
+    "excerpt": "The town that pulled in Matisse and Derain: its waterside bell tower, the fort on the hill, and the old stone streets running down to the sea.",
+    "iso_date": "2026-08-08T09:00:00+02:00",
+    "date": "8 August 2026",
+    "thumb": "collioure/cover.jpg",
+    "tags": [
+      "travel",
+      "france",
+      "collioure",
+      "coast"
+    ],
+    "place": "Collioure, Pyr\u00e9n\u00e9es-Orientales",
+    "coords": [
+      42.5266,
+      3.0847
+    ]
+  },
+  {
     "slug": "garden-greens",
     "title": "Garden greens",
     "excerpt": "The leaves rather than the flowers: a jade plant against a warm wall and the fresh growth on a young araucaria.",

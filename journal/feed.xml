@@ -5,7 +5,17 @@
   <link rel="self" type="application/atom+xml" href="https://www.jamesgalt.photo/journal/feed.xml"/>
   <id>https://www.jamesgalt.photo/journal/</id>
   <author><name>James Galt</name></author>
-<updated>2026-08-07T19:00:00+02:00</updated>  <entry>
+<updated>2026-08-08T09:00:00+02:00</updated>  <entry>
+    <title>Collioure</title>
+    <link href="https://www.jamesgalt.photo/journal/collioure/"/>
+    <id>https://www.jamesgalt.photo/journal/collioure/</id>
+    <updated>2026-08-08T09:00:00+02:00</updated>
+<category term="travel"/>
+<category term="france"/>
+<category term="collioure"/>
+<category term="coast"/>
+<summary>The town that pulled in Matisse and Derain: its waterside bell tower, the fort on the hill, and the old stone streets running down to the sea.</summary>  </entry>
+  <entry>
     <title>Garden greens</title>
     <link href="https://www.jamesgalt.photo/journal/garden-greens/"/>
     <id>https://www.jamesgalt.photo/journal/garden-greens/</id>
