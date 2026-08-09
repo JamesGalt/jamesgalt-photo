@@ -1,5 +1,23 @@
 [
   {
+    "slug": "vendome-trinite-cloister",
+    "title": "The tower and the cloister",
+    "excerpt": "The Abbaye de la Trinite in Vendome: a freestanding Romanesque bell tower above a cloister of willow beds and worn stone.",
+    "iso_date": "2026-08-09T09:00:00+02:00",
+    "date": "9 August 2026",
+    "thumb": "vendome-trinite-cloister/cover.jpg",
+    "tags": [
+      "architecture",
+      "abbey",
+      "vendome"
+    ],
+    "place": "Abbaye de la Trinite, Vendome",
+    "coords": [
+      47.7912,
+      1.0688
+    ]
+  },
+  {
     "slug": "ceret-modern-art",
     "title": "C\u00e9ret, the modern note",
     "excerpt": "A last stop in C\u00e9ret, the little Cubist town: bolts of Catalan striped cloth, and a contemporary gallery of felt cylinders and glass block.",
