@@ -1,5 +1,23 @@
 [
   {
+    "slug": "chaumont-cellar-sculptures",
+    "title": "Carved wood, low light",
+    "excerpt": "Contemporary wood sculpture in a vaulted room at the Domaine de Chaumont-sur-Loire, lit so the shadows carve too.",
+    "iso_date": "2026-08-10T19:00:00+02:00",
+    "date": "10 August 2026",
+    "thumb": "chaumont-cellar-sculptures/cover.jpg",
+    "tags": [
+      "sculpture",
+      "art",
+      "chaumont-sur-loire"
+    ],
+    "place": "Domaine de Chaumont-sur-Loire",
+    "coords": [
+      47.4796,
+      1.1826
+    ]
+  },
+  {
     "slug": "vendome-evening",
     "title": "Vendome, early evening",
     "excerpt": "Coneflowers, a half-timbered house over the Loir, and firecracker vine in the last of the sun.",
