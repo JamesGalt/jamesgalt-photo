@@ -1,5 +1,23 @@
 [
   {
+    "slug": "vendome-evening",
+    "title": "Vendome, early evening",
+    "excerpt": "Coneflowers, a half-timbered house over the Loir, and firecracker vine in the last of the sun.",
+    "iso_date": "2026-08-10T09:00:00+02:00",
+    "date": "10 August 2026",
+    "thumb": "vendome-evening/cover.jpg",
+    "tags": [
+      "village",
+      "garden",
+      "vendome"
+    ],
+    "place": "Vendome",
+    "coords": [
+      47.7912,
+      1.0688
+    ]
+  },
+  {
     "slug": "vendome-trinite-glass",
     "title": "Four windows",
     "excerpt": "Light through the glass at the Abbaye de la Trinite, Vendome, from medieval saints in the apse to a mid-century abstract.",
