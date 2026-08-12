@@ -1,5 +1,23 @@
 [
   {
+    "slug": "chaumont-garden-textures",
+    "title": "Woven and wrapped",
+    "excerpt": "Material studies from the show gardens: bound bamboo, a hanging screen of woven cones, and a canopy of paper squares.",
+    "iso_date": "2026-08-12T09:00:00+02:00",
+    "date": "12 August 2026",
+    "thumb": "chaumont-garden-textures/cover.jpg",
+    "tags": [
+      "garden",
+      "festival",
+      "chaumont-sur-loire"
+    ],
+    "place": "Festival International des Jardins, Chaumont-sur-Loire",
+    "coords": [
+      47.478,
+      1.18
+    ]
+  },
+  {
     "slug": "chaumont-garden-small-worlds",
     "title": "Small worlds",
     "excerpt": "Three storybook plots at the garden festival: a fairy house in the reeds, floating painted tiles, and a hollow tree laid for tea.",
