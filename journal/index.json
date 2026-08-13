@@ -1,5 +1,23 @@
 [
   {
+    "slug": "chaumont-foliage-details",
+    "title": "Leaves, up close",
+    "excerpt": "Foliage at the domaine: monkey puzzle, a backlit canna leaf, a rubber plant's red new growth, and scarred bamboo.",
+    "iso_date": "2026-08-13T19:00:00+02:00",
+    "date": "13 August 2026",
+    "thumb": "chaumont-foliage-details/cover.jpg",
+    "tags": [
+      "botanical",
+      "foliage",
+      "chaumont-sur-loire"
+    ],
+    "place": "Domaine de Chaumont-sur-Loire",
+    "coords": [
+      47.4796,
+      1.1826
+    ]
+  },
+  {
     "slug": "chaumont-lily-ponds",
     "title": "Water gardens",
     "excerpt": "Ponds at the festival: yellow and pink water lilies, horsetail reeds, and glass dragonflies set among the rushes.",
