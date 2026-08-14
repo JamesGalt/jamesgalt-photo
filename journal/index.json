@@ -1,5 +1,23 @@
 [
   {
+    "slug": "chaumont-garden-blooms",
+    "title": "Alstroemeria, twice",
+    "excerpt": "Two stands of alstroemeria from the domaine's borders, one orange, one pink, both streaked and freckled.",
+    "iso_date": "2026-08-14T09:00:00+02:00",
+    "date": "14 August 2026",
+    "thumb": "chaumont-garden-blooms/cover.jpg",
+    "tags": [
+      "flowers",
+      "botanical",
+      "chaumont-sur-loire"
+    ],
+    "place": "Domaine de Chaumont-sur-Loire",
+    "coords": [
+      47.4796,
+      1.1826
+    ]
+  },
+  {
     "slug": "chaumont-foliage-details",
     "title": "Leaves, up close",
     "excerpt": "Foliage at the domaine: monkey puzzle, a backlit canna leaf, a rubber plant's red new growth, and scarred bamboo.",
