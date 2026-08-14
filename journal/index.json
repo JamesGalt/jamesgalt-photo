@@ -1,5 +1,23 @@
 [
   {
+    "slug": "chaumont-chateau",
+    "title": "The chateau",
+    "excerpt": "Chateau de Chaumont-sur-Loire at the end of the day, its turrets above deep flower borders.",
+    "iso_date": "2026-08-14T19:00:00+02:00",
+    "date": "14 August 2026",
+    "thumb": "chaumont-chateau/cover.jpg",
+    "tags": [
+      "architecture",
+      "chateau",
+      "chaumont-sur-loire"
+    ],
+    "place": "Chateau de Chaumont-sur-Loire",
+    "coords": [
+      47.4796,
+      1.1826
+    ]
+  },
+  {
     "slug": "chaumont-garden-blooms",
     "title": "Alstroemeria, twice",
     "excerpt": "Two stands of alstroemeria from the domaine's borders, one orange, one pink, both streaked and freckled.",
