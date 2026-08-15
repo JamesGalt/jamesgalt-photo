@@ -1,5 +1,23 @@
 [
   {
+    "slug": "chaumont-loire-river",
+    "title": "The Loire, low water",
+    "excerpt": "The Loire at Chaumont in August, sandbars exposed and a single flat-bottomed boat in the channel.",
+    "iso_date": "2026-08-15T09:00:00+02:00",
+    "date": "15 August 2026",
+    "thumb": "chaumont-loire-river/cover.jpg",
+    "tags": [
+      "landscape",
+      "river",
+      "chaumont-sur-loire"
+    ],
+    "place": "The Loire, Chaumont-sur-Loire",
+    "coords": [
+      47.481,
+      1.185
+    ]
+  },
+  {
     "slug": "chaumont-chateau",
     "title": "The chateau",
     "excerpt": "Chateau de Chaumont-sur-Loire at the end of the day, its turrets above deep flower borders.",
