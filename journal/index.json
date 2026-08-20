@@ -1,5 +1,24 @@
 [
   {
+    "slug": "arusha-lodge-garden",
+    "title": "Lodge garden, Arusha",
+    "excerpt": "The first morning in Tanzania, spent in a garden near Arusha before the drive north.",
+    "iso_date": "2026-08-20T19:00:00+02:00",
+    "date": "20 August 2026",
+    "thumb": "arusha-lodge-garden/cover.jpg",
+    "tags": [
+      "garden",
+      "botanical",
+      "tanzania",
+      "arusha"
+    ],
+    "place": "Arusha, Tanzania",
+    "coords": [
+      -3.387,
+      36.683
+    ]
+  },
+  {
     "slug": "chaumont-loire-river",
     "title": "The Loire, low water",
     "excerpt": "The Loire at Chaumont in August, sandbars exposed and a single flat-bottomed boat in the channel.",
