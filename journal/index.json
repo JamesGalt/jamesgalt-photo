@@ -1,5 +1,24 @@
 [
   {
+    "slug": "arusha-carved-masks",
+    "title": "Carved masks, Arusha",
+    "excerpt": "A wall of carved and painted masks at a craft gallery near Arusha.",
+    "iso_date": "2026-08-21T19:00:00+02:00",
+    "date": "21 August 2026",
+    "thumb": "arusha-carved-masks/cover.jpg",
+    "tags": [
+      "craft",
+      "masks",
+      "tanzania",
+      "arusha"
+    ],
+    "place": "Arusha, Tanzania",
+    "coords": [
+      -3.387,
+      36.683
+    ]
+  },
+  {
     "slug": "arusha-vervet-monkeys",
     "title": "Vervet monkeys, Arusha",
     "excerpt": "A pair of vervet monkeys moving through the branches above the lodge, first day in Tanzania.",
