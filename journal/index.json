@@ -1,5 +1,24 @@
 [
   {
+    "slug": "arusha-vervet-monkeys",
+    "title": "Vervet monkeys, Arusha",
+    "excerpt": "A pair of vervet monkeys moving through the branches above the lodge, first day in Tanzania.",
+    "iso_date": "2026-08-21T09:00:00+02:00",
+    "date": "21 August 2026",
+    "thumb": "arusha-vervet-monkeys/cover.jpg",
+    "tags": [
+      "wildlife",
+      "monkey",
+      "tanzania",
+      "arusha"
+    ],
+    "place": "Arusha, Tanzania",
+    "coords": [
+      -3.387,
+      36.683
+    ]
+  },
+  {
     "slug": "arusha-lodge-garden",
     "title": "Lodge garden, Arusha",
     "excerpt": "The first morning in Tanzania, spent in a garden near Arusha before the drive north.",
