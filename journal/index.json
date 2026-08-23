@@ -1,5 +1,24 @@
 [
   {
+    "slug": "arusha-window-portrait",
+    "title": "By the window, Arusha",
+    "excerpt": "A woman resting a moment by a market window in Arusha, in black and white and colour.",
+    "iso_date": "2026-08-23T19:00:00+02:00",
+    "date": "23 August 2026",
+    "thumb": "arusha-window-portrait/cover.jpg",
+    "tags": [
+      "portrait",
+      "street",
+      "tanzania",
+      "arusha"
+    ],
+    "place": "Arusha, Tanzania",
+    "coords": [
+      -3.369,
+      36.692
+    ]
+  },
+  {
     "slug": "arusha-market-stall-boy",
     "title": "At the stall, Arusha",
     "excerpt": "A young man reaching up to the grille of a market stall in Arusha, kept in both black and white and colour.",
