@@ -1,5 +1,24 @@
 [
   {
+    "slug": "natron-village-crafts",
+    "title": "Village crafts, Lake Natron",
+    "excerpt": "A banana flower, a basket weaver, a palm mat: a village stop on the road to Lake Natron.",
+    "iso_date": "2026-08-24T19:00:00+02:00",
+    "date": "24 August 2026",
+    "thumb": "natron-village-crafts/cover.jpg",
+    "tags": [
+      "craft",
+      "weaving",
+      "tanzania",
+      "lake-natron"
+    ],
+    "place": "near Lake Natron, Tanzania",
+    "coords": [
+      -2.4167,
+      36.0
+    ]
+  },
+  {
     "slug": "maasai-elder-portrait",
     "title": "Maasai portrait, near Lake Natron",
     "excerpt": "The first Maasai portrait of the trip, on the road toward Lake Natron, kept in colour and black and white.",
