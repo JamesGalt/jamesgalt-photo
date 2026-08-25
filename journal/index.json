@@ -1,5 +1,24 @@
 [
   {
+    "slug": "natron-savannah-giraffe",
+    "title": "Toward Lake Natron",
+    "excerpt": "Late light on the drive north: a giraffe, gold hills, and long-horned cattle in the grass.",
+    "iso_date": "2026-08-25T09:00:00+02:00",
+    "date": "25 August 2026",
+    "thumb": "natron-savannah-giraffe/cover.jpg",
+    "tags": [
+      "wildlife",
+      "giraffe",
+      "tanzania",
+      "lake-natron"
+    ],
+    "place": "near Lake Natron, Tanzania",
+    "coords": [
+      -2.4167,
+      36.0
+    ]
+  },
+  {
     "slug": "natron-village-crafts",
     "title": "Village crafts, Lake Natron",
     "excerpt": "A banana flower, a basket weaver, a palm mat: a village stop on the road to Lake Natron.",
