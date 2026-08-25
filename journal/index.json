@@ -1,5 +1,24 @@
 [
   {
+    "slug": "natron-acacia-volcano",
+    "title": "Acacia and the volcano",
+    "excerpt": "A lone acacia on the plain and Ol Doinyo Lengai beyond, late on the road to Lake Natron.",
+    "iso_date": "2026-08-25T19:00:00+02:00",
+    "date": "25 August 2026",
+    "thumb": "natron-acacia-volcano/cover.jpg",
+    "tags": [
+      "landscape",
+      "acacia",
+      "volcano",
+      "tanzania"
+    ],
+    "place": "near Lake Natron, Tanzania",
+    "coords": [
+      -2.4167,
+      36.0
+    ]
+  },
+  {
     "slug": "natron-savannah-giraffe",
     "title": "Toward Lake Natron",
     "excerpt": "Late light on the drive north: a giraffe, gold hills, and long-horned cattle in the grass.",
