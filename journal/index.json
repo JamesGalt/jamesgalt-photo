@@ -1,5 +1,24 @@
 [
   {
+    "slug": "maasai-portraits-morning",
+    "title": "Maasai, morning light",
+    "excerpt": "Morning portraits in Maasai country near Lake Natron, each kept in colour and black and white.",
+    "iso_date": "2026-08-26T19:00:00+02:00",
+    "date": "26 August 2026",
+    "thumb": "maasai-portraits-morning/cover.jpg",
+    "tags": [
+      "portrait",
+      "maasai",
+      "tanzania",
+      "lake-natron"
+    ],
+    "place": "near Lake Natron, Tanzania",
+    "coords": [
+      -2.4167,
+      36.0
+    ]
+  },
+  {
     "slug": "maasai-shuka-dusk",
     "title": "Shuka at dusk, Lake Natron",
     "excerpt": "A figure wrapped against the evening chill near Lake Natron, in black and white and colour.",
