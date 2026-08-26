@@ -1,5 +1,24 @@
 [
   {
+    "slug": "maasai-shuka-dusk",
+    "title": "Shuka at dusk, Lake Natron",
+    "excerpt": "A figure wrapped against the evening chill near Lake Natron, in black and white and colour.",
+    "iso_date": "2026-08-26T09:00:00+02:00",
+    "date": "26 August 2026",
+    "thumb": "maasai-shuka-dusk/cover.jpg",
+    "tags": [
+      "portrait",
+      "maasai",
+      "tanzania",
+      "lake-natron"
+    ],
+    "place": "near Lake Natron, Tanzania",
+    "coords": [
+      -2.4167,
+      36.0
+    ]
+  },
+  {
     "slug": "natron-acacia-volcano",
     "title": "Acacia and the volcano",
     "excerpt": "A lone acacia on the plain and Ol Doinyo Lengai beyond, late on the road to Lake Natron.",
