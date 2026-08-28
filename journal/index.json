@@ -1,5 +1,24 @@
 [
   {
+    "slug": "natron-flamingo-lake",
+    "title": "Flamingos, Lake Natron",
+    "excerpt": "Flamingos in the shallows and a figure crossing the flats at Lake Natron, mid-morning glare.",
+    "iso_date": "2026-08-28T19:00:00+02:00",
+    "date": "28 August 2026",
+    "thumb": "natron-flamingo-lake/cover.jpg",
+    "tags": [
+      "wildlife",
+      "flamingo",
+      "tanzania",
+      "lake-natron"
+    ],
+    "place": "Lake Natron, Tanzania",
+    "coords": [
+      -2.4167,
+      36.0
+    ]
+  },
+  {
     "slug": "natron-giraffe-gathering",
     "title": "Under the mountain",
     "excerpt": "Morning on the plain near Lake Natron: a giraffe, the volcano, and a gathering of Maasai.",
