@@ -1,5 +1,24 @@
 [
   {
+    "slug": "natron-giraffe-gathering",
+    "title": "Under the mountain",
+    "excerpt": "Morning on the plain near Lake Natron: a giraffe, the volcano, and a gathering of Maasai.",
+    "iso_date": "2026-08-28T09:00:00+02:00",
+    "date": "28 August 2026",
+    "thumb": "natron-giraffe-gathering/cover.jpg",
+    "tags": [
+      "wildlife",
+      "landscape",
+      "maasai",
+      "tanzania"
+    ],
+    "place": "near Lake Natron, Tanzania",
+    "coords": [
+      -2.4167,
+      36.0
+    ]
+  },
+  {
     "slug": "natron-acacia-lengai",
     "title": "Acacia under Lengai",
     "excerpt": "A flat-topped acacia stacked against the volcano with the long lens, colour and black and white.",
