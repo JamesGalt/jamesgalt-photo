@@ -1,5 +1,24 @@
 [
   {
+    "slug": "natron-volcano-river",
+    "title": "The volcano and the stream",
+    "excerpt": "Ol Doinyo Lengai across the plain with a green stream leading in, and the banded rock of a nearby gorge.",
+    "iso_date": "2026-08-29T19:00:00+02:00",
+    "date": "29 August 2026",
+    "thumb": "natron-volcano-river/cover.jpg",
+    "tags": [
+      "landscape",
+      "volcano",
+      "tanzania",
+      "lake-natron"
+    ],
+    "place": "near Lake Natron, Tanzania",
+    "coords": [
+      -2.4167,
+      36.0
+    ]
+  },
+  {
     "slug": "natron-salt-flats",
     "title": "The ground at Lake Natron",
     "excerpt": "Mineral crusts, a footprint in the mud, and the salt flats running out to the shore at Lake Natron.",
