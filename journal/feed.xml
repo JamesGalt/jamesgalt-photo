@@ -5,7 +5,17 @@
   <link rel="self" type="application/atom+xml" href="https://www.jamesgalt.photo/journal/feed.xml"/>
   <id>https://www.jamesgalt.photo/journal/</id>
   <author><name>James Galt</name></author>
-<updated>2026-08-29T19:00:00+02:00</updated>  <entry>
+<updated>2026-08-30T09:00:00+02:00</updated>  <entry>
+    <title>Dawn, Lake Natron</title>
+    <link href="https://www.jamesgalt.photo/journal/natron-sunrise/"/>
+    <id>https://www.jamesgalt.photo/journal/natron-sunrise/</id>
+    <updated>2026-08-30T09:00:00+02:00</updated>
+<category term="landscape"/>
+<category term="sunrise"/>
+<category term="tanzania"/>
+<category term="lake-natron"/>
+<summary>Sunrise over the plain near Lake Natron, the volcano and the sky and a figure by the truck.</summary>  </entry>
+  <entry>
     <title>The volcano and the stream</title>
     <link href="https://www.jamesgalt.photo/journal/natron-volcano-river/"/>
     <id>https://www.jamesgalt.photo/journal/natron-volcano-river/</id>
