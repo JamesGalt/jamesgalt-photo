@@ -1,5 +1,24 @@
 [
   {
+    "slug": "natron-dawn-escarpment",
+    "title": "Escarpment light",
+    "excerpt": "The last of the dawn near Lake Natron, from the camp to the light on the escarpment.",
+    "iso_date": "2026-08-30T19:00:00+02:00",
+    "date": "30 August 2026",
+    "thumb": "natron-dawn-escarpment/cover.jpg",
+    "tags": [
+      "landscape",
+      "tanzania",
+      "lake-natron",
+      "dawn"
+    ],
+    "place": "near Lake Natron, Tanzania",
+    "coords": [
+      -2.4167,
+      36.0
+    ]
+  },
+  {
     "slug": "natron-sunrise",
     "title": "Dawn, Lake Natron",
     "excerpt": "Sunrise over the plain near Lake Natron, the volcano and the sky and a figure by the truck.",
