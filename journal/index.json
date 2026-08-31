@@ -1,5 +1,24 @@
 [
   {
+    "slug": "natron-fuel-stop",
+    "title": "At the pumps",
+    "excerpt": "A rider at a roadside fuel stop leaving Lake Natron, kept in colour and black and white.",
+    "iso_date": "2026-08-31T09:00:00+02:00",
+    "date": "31 August 2026",
+    "thumb": "natron-fuel-stop/cover.jpg",
+    "tags": [
+      "street",
+      "motorcycle",
+      "tanzania",
+      "lake-natron"
+    ],
+    "place": "near Lake Natron, Tanzania",
+    "coords": [
+      -2.4167,
+      36.0
+    ]
+  },
+  {
     "slug": "natron-dawn-escarpment",
     "title": "Escarpment light",
     "excerpt": "The last of the dawn near Lake Natron, from the camp to the light on the escarpment.",
