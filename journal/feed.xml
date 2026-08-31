@@ -5,7 +5,17 @@
   <link rel="self" type="application/atom+xml" href="https://www.jamesgalt.photo/journal/feed.xml"/>
   <id>https://www.jamesgalt.photo/journal/</id>
   <author><name>James Galt</name></author>
-<updated>2026-08-31T09:00:00+02:00</updated>  <entry>
+<updated>2026-08-31T19:00:00+02:00</updated>  <entry>
+    <title>First drive, Serengeti</title>
+    <link href="https://www.jamesgalt.photo/journal/serengeti-first-drive/"/>
+    <id>https://www.jamesgalt.photo/journal/serengeti-first-drive/</id>
+    <updated>2026-08-31T19:00:00+02:00</updated>
+<category term="wildlife"/>
+<category term="serengeti"/>
+<category term="tanzania"/>
+<category term="safari"/>
+<summary>The first hours in the Serengeti: wildebeest on the track, a leopard in the grass, gazelles at a distance.</summary>  </entry>
+  <entry>
     <title>At the pumps</title>
     <link href="https://www.jamesgalt.photo/journal/natron-fuel-stop/"/>
     <id>https://www.jamesgalt.photo/journal/natron-fuel-stop/</id>

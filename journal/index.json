@@ -1,5 +1,24 @@
 [
   {
+    "slug": "serengeti-first-drive",
+    "title": "First drive, Serengeti",
+    "excerpt": "The first hours in the Serengeti: wildebeest on the track, a leopard in the grass, gazelles at a distance.",
+    "iso_date": "2026-08-31T19:00:00+02:00",
+    "date": "31 August 2026",
+    "thumb": "serengeti-first-drive/cover.jpg",
+    "tags": [
+      "wildlife",
+      "serengeti",
+      "tanzania",
+      "safari"
+    ],
+    "place": "Serengeti, Tanzania",
+    "coords": [
+      -2.3333,
+      34.8333
+    ]
+  },
+  {
     "slug": "natron-fuel-stop",
     "title": "At the pumps",
     "excerpt": "A rider at a roadside fuel stop leaving Lake Natron, kept in colour and black and white.",
