@@ -1,5 +1,24 @@
 [
   {
+    "slug": "serengeti-plains-grazers",
+    "title": "On the plains",
+    "excerpt": "Zebra in the open and a lone antelope on the rocks, between the bigger Serengeti sightings.",
+    "iso_date": "2026-09-01T19:00:00+02:00",
+    "date": "1 September 2026",
+    "thumb": "serengeti-plains-grazers/cover.jpg",
+    "tags": [
+      "wildlife",
+      "zebra",
+      "serengeti",
+      "tanzania"
+    ],
+    "place": "Serengeti, Tanzania",
+    "coords": [
+      -2.3333,
+      34.8333
+    ]
+  },
+  {
     "slug": "serengeti-lions",
     "title": "Lions, mid-afternoon",
     "excerpt": "A pride in the afternoon heat, one male asleep and a lioness on the move.",
