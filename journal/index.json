@@ -1,5 +1,24 @@
 [
   {
+    "slug": "serengeti-lions",
+    "title": "Lions, mid-afternoon",
+    "excerpt": "A pride in the afternoon heat, one male asleep and a lioness on the move.",
+    "iso_date": "2026-09-01T09:00:00+02:00",
+    "date": "1 September 2026",
+    "thumb": "serengeti-lions/cover.jpg",
+    "tags": [
+      "wildlife",
+      "lion",
+      "serengeti",
+      "tanzania"
+    ],
+    "place": "Serengeti, Tanzania",
+    "coords": [
+      -2.3333,
+      34.8333
+    ]
+  },
+  {
     "slug": "serengeti-first-drive",
     "title": "First drive, Serengeti",
     "excerpt": "The first hours in the Serengeti: wildebeest on the track, a leopard in the grass, gazelles at a distance.",
