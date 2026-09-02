@@ -1,5 +1,24 @@
 [
   {
+    "slug": "serengeti-zebra-dawn",
+    "title": "Zebra, morning",
+    "excerpt": "Zebra in early Serengeti light, kept in colour and black and white.",
+    "iso_date": "2026-09-02T09:00:00+02:00",
+    "date": "2 September 2026",
+    "thumb": "serengeti-zebra-dawn/cover.jpg",
+    "tags": [
+      "wildlife",
+      "zebra",
+      "serengeti",
+      "tanzania"
+    ],
+    "place": "Serengeti, Tanzania",
+    "coords": [
+      -2.3333,
+      34.8333
+    ]
+  },
+  {
     "slug": "serengeti-plains-grazers",
     "title": "On the plains",
     "excerpt": "Zebra in the open and a lone antelope on the rocks, between the bigger Serengeti sightings.",
