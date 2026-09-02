@@ -1,5 +1,24 @@
 [
   {
+    "slug": "serengeti-giraffe-hippo",
+    "title": "Giraffe and hippos",
+    "excerpt": "A giraffe among the acacias and hippos packed into a shrinking waterhole, Serengeti.",
+    "iso_date": "2026-09-02T19:00:00+02:00",
+    "date": "2 September 2026",
+    "thumb": "serengeti-giraffe-hippo/cover.jpg",
+    "tags": [
+      "wildlife",
+      "serengeti",
+      "tanzania",
+      "safari"
+    ],
+    "place": "Serengeti, Tanzania",
+    "coords": [
+      -2.3333,
+      34.8333
+    ]
+  },
+  {
     "slug": "serengeti-zebra-dawn",
     "title": "Zebra, morning",
     "excerpt": "Zebra in early Serengeti light, kept in colour and black and white.",
