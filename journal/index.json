@@ -1,5 +1,24 @@
 [
   {
+    "slug": "serengeti-odd-corners",
+    "title": "Odd corners",
+    "excerpt": "A fire extinguisher on the plain, a bare acacia, and a serval: the Serengeti's odd corners.",
+    "iso_date": "2026-09-03T09:00:00+02:00",
+    "date": "3 September 2026",
+    "thumb": "serengeti-odd-corners/cover.jpg",
+    "tags": [
+      "wildlife",
+      "serval",
+      "serengeti",
+      "tanzania"
+    ],
+    "place": "Serengeti, Tanzania",
+    "coords": [
+      -2.3333,
+      34.8333
+    ]
+  },
+  {
     "slug": "serengeti-giraffe-hippo",
     "title": "Giraffe and hippos",
     "excerpt": "A giraffe among the acacias and hippos packed into a shrinking waterhole, Serengeti.",
