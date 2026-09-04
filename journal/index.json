@@ -1,5 +1,24 @@
 [
   {
+    "slug": "serengeti-elephant-guineafowl",
+    "title": "Elephant and guineafowl",
+    "excerpt": "An elephant under a lone tree and a guineafowl up in the branches, Serengeti.",
+    "iso_date": "2026-09-04T09:00:00+02:00",
+    "date": "4 September 2026",
+    "thumb": "serengeti-elephant-guineafowl/cover.jpg",
+    "tags": [
+      "wildlife",
+      "elephant",
+      "serengeti",
+      "tanzania"
+    ],
+    "place": "Serengeti, Tanzania",
+    "coords": [
+      -2.3333,
+      34.8333
+    ]
+  },
+  {
     "slug": "serengeti-tree-lions",
     "title": "Lions in the tree",
     "excerpt": "Two lions resting up in the branches of a tree, the Serengeti's tree-climbers.",
