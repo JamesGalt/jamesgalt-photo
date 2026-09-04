@@ -1,5 +1,24 @@
 [
   {
+    "slug": "serengeti-cheetah-family",
+    "title": "Cheetah family",
+    "excerpt": "A cheetah and her cubs on a kill in the long grass, watching the sky between bites.",
+    "iso_date": "2026-09-04T19:00:00+02:00",
+    "date": "4 September 2026",
+    "thumb": "serengeti-cheetah-family/cover.jpg",
+    "tags": [
+      "wildlife",
+      "cheetah",
+      "serengeti",
+      "tanzania"
+    ],
+    "place": "Serengeti, Tanzania",
+    "coords": [
+      -2.3333,
+      34.8333
+    ]
+  },
+  {
     "slug": "serengeti-elephant-guineafowl",
     "title": "Elephant and guineafowl",
     "excerpt": "An elephant under a lone tree and a guineafowl up in the branches, Serengeti.",
