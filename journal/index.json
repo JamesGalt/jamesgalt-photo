@@ -1,5 +1,24 @@
 [
   {
+    "slug": "serengeti-kopjes",
+    "title": "Kopjes",
+    "excerpt": "The rock kopjes of the Serengeti and a distant grass fire on the plain.",
+    "iso_date": "2026-09-05T19:00:00+02:00",
+    "date": "5 September 2026",
+    "thumb": "serengeti-kopjes/cover.jpg",
+    "tags": [
+      "landscape",
+      "serengeti",
+      "tanzania",
+      "kopje"
+    ],
+    "place": "Serengeti, Tanzania",
+    "coords": [
+      -2.3333,
+      34.8333
+    ]
+  },
+  {
     "slug": "serengeti-cheetah-cubs",
     "title": "Cheetah, the young ones",
     "excerpt": "A cheetah cub up in the grass and an adult calling, same Serengeti family.",
