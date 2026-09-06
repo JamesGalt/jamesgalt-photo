@@ -5,7 +5,17 @@
   <link rel="self" type="application/atom+xml" href="https://www.jamesgalt.photo/journal/feed.xml"/>
   <id>https://www.jamesgalt.photo/journal/</id>
   <author><name>James Galt</name></author>
-<updated>2026-09-06T09:00:00+02:00</updated>  <entry>
+<updated>2026-09-06T19:00:00+02:00</updated>  <entry>
+    <title>Serengeti birds</title>
+    <link href="https://www.jamesgalt.photo/journal/serengeti-birds/"/>
+    <id>https://www.jamesgalt.photo/journal/serengeti-birds/</id>
+    <updated>2026-09-06T19:00:00+02:00</updated>
+<category term="wildlife"/>
+<category term="birds"/>
+<category term="serengeti"/>
+<category term="tanzania"/>
+<summary>A tawny eagle, a superb starling, and more, closing out a Serengeti day.</summary>  </entry>
+  <entry>
     <title>Serengeti dusk</title>
     <link href="https://www.jamesgalt.photo/journal/serengeti-elephant-dusk/"/>
     <id>https://www.jamesgalt.photo/journal/serengeti-elephant-dusk/</id>

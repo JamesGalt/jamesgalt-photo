@@ -1,5 +1,24 @@
 [
   {
+    "slug": "serengeti-birds",
+    "title": "Serengeti birds",
+    "excerpt": "A tawny eagle, a superb starling, and more, closing out a Serengeti day.",
+    "iso_date": "2026-09-06T19:00:00+02:00",
+    "date": "6 September 2026",
+    "thumb": "serengeti-birds/cover.jpg",
+    "tags": [
+      "wildlife",
+      "birds",
+      "serengeti",
+      "tanzania"
+    ],
+    "place": "Serengeti, Tanzania",
+    "coords": [
+      -2.3333,
+      34.8333
+    ]
+  },
+  {
     "slug": "serengeti-elephant-dusk",
     "title": "Serengeti dusk",
     "excerpt": "An elephant grazing in the last light and the sky going gold over the Serengeti.",
