@@ -1,5 +1,24 @@
 [
   {
+    "slug": "serengeti-elephant-dusk",
+    "title": "Serengeti dusk",
+    "excerpt": "An elephant grazing in the last light and the sky going gold over the Serengeti.",
+    "iso_date": "2026-09-06T09:00:00+02:00",
+    "date": "6 September 2026",
+    "thumb": "serengeti-elephant-dusk/cover.jpg",
+    "tags": [
+      "wildlife",
+      "landscape",
+      "serengeti",
+      "tanzania"
+    ],
+    "place": "Serengeti, Tanzania",
+    "coords": [
+      -2.3333,
+      34.8333
+    ]
+  },
+  {
     "slug": "serengeti-kopjes",
     "title": "Kopjes",
     "excerpt": "The rock kopjes of the Serengeti and a distant grass fire on the plain.",
