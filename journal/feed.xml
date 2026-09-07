@@ -5,7 +5,17 @@
   <link rel="self" type="application/atom+xml" href="https://www.jamesgalt.photo/journal/feed.xml"/>
   <id>https://www.jamesgalt.photo/journal/</id>
   <author><name>James Galt</name></author>
-<updated>2026-09-07T09:00:00+02:00</updated>  <entry>
+<updated>2026-09-07T19:00:00+02:00</updated>  <entry>
+    <title>Dawn on the rim</title>
+    <link href="https://www.jamesgalt.photo/journal/ngorongoro-dawn-aloes/"/>
+    <id>https://www.jamesgalt.photo/journal/ngorongoro-dawn-aloes/</id>
+    <updated>2026-09-07T19:00:00+02:00</updated>
+<category term="wildlife"/>
+<category term="birds"/>
+<category term="ngorongoro"/>
+<category term="tanzania"/>
+<summary>First light on the Ngorongoro rim, from a treeline to lovebirds in the aloes.</summary>  </entry>
+  <entry>
     <title>Last light, Serengeti</title>
     <link href="https://www.jamesgalt.photo/journal/serengeti-dusk-perch/"/>
     <id>https://www.jamesgalt.photo/journal/serengeti-dusk-perch/</id>
