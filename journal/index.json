@@ -1,5 +1,24 @@
 [
   {
+    "slug": "serengeti-dusk-perch",
+    "title": "Last light, Serengeti",
+    "excerpt": "A bare tree and a bird against the Serengeti afterglow, the end of the day.",
+    "iso_date": "2026-09-07T09:00:00+02:00",
+    "date": "7 September 2026",
+    "thumb": "serengeti-dusk-perch/cover.jpg",
+    "tags": [
+      "wildlife",
+      "landscape",
+      "serengeti",
+      "tanzania"
+    ],
+    "place": "Serengeti, Tanzania",
+    "coords": [
+      -2.3333,
+      34.8333
+    ]
+  },
+  {
     "slug": "serengeti-birds",
     "title": "Serengeti birds",
     "excerpt": "A tawny eagle, a superb starling, and more, closing out a Serengeti day.",
