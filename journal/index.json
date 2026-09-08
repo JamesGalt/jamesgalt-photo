@@ -1,5 +1,24 @@
 [
   {
+    "slug": "ngorongoro-crater-lake",
+    "title": "The crater floor",
+    "excerpt": "A zebra at the flamingo lake and a kori bustard in the grass, down on the Ngorongoro floor.",
+    "iso_date": "2026-09-08T19:00:00+02:00",
+    "date": "8 September 2026",
+    "thumb": "ngorongoro-crater-lake/cover.jpg",
+    "tags": [
+      "wildlife",
+      "ngorongoro",
+      "tanzania",
+      "safari"
+    ],
+    "place": "Ngorongoro, Tanzania",
+    "coords": [
+      -3.1667,
+      35.5833
+    ]
+  },
+  {
     "slug": "ngorongoro-descent",
     "title": "Into the crater",
     "excerpt": "The euphorbia on the rim, the crater floor opening below, and the cobbled road down into Ngorongoro.",
