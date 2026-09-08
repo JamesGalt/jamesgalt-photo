@@ -1,5 +1,24 @@
 [
   {
+    "slug": "ngorongoro-descent",
+    "title": "Into the crater",
+    "excerpt": "The euphorbia on the rim, the crater floor opening below, and the cobbled road down into Ngorongoro.",
+    "iso_date": "2026-09-08T09:00:00+02:00",
+    "date": "8 September 2026",
+    "thumb": "ngorongoro-descent/cover.jpg",
+    "tags": [
+      "landscape",
+      "ngorongoro",
+      "tanzania",
+      "crater"
+    ],
+    "place": "Ngorongoro, Tanzania",
+    "coords": [
+      -3.1667,
+      35.5833
+    ]
+  },
+  {
     "slug": "ngorongoro-dawn-aloes",
     "title": "Dawn on the rim",
     "excerpt": "First light on the Ngorongoro rim, from a treeline to lovebirds in the aloes.",
