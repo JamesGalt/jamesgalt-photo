@@ -1,5 +1,24 @@
 [
   {
+    "slug": "ngorongoro-zebra-dust",
+    "title": "Zebra in the dust",
+    "excerpt": "Zebra crossing through dust on the Ngorongoro floor, colour and black and white.",
+    "iso_date": "2026-09-09T09:00:00+02:00",
+    "date": "9 September 2026",
+    "thumb": "ngorongoro-zebra-dust/cover.jpg",
+    "tags": [
+      "wildlife",
+      "zebra",
+      "ngorongoro",
+      "tanzania"
+    ],
+    "place": "Ngorongoro, Tanzania",
+    "coords": [
+      -3.1667,
+      35.5833
+    ]
+  },
+  {
     "slug": "ngorongoro-crater-lake",
     "title": "The crater floor",
     "excerpt": "A zebra at the flamingo lake and a kori bustard in the grass, down on the Ngorongoro floor.",
