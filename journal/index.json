@@ -1,5 +1,24 @@
 [
   {
+    "slug": "ngorongoro-wildebeest",
+    "title": "Crater herd",
+    "excerpt": "A wildebeest herd on the Ngorongoro floor, from wide to tight, colour and black and white.",
+    "iso_date": "2026-09-09T19:00:00+02:00",
+    "date": "9 September 2026",
+    "thumb": "ngorongoro-wildebeest/cover.jpg",
+    "tags": [
+      "wildlife",
+      "wildebeest",
+      "ngorongoro",
+      "tanzania"
+    ],
+    "place": "Ngorongoro, Tanzania",
+    "coords": [
+      -3.1667,
+      35.5833
+    ]
+  },
+  {
     "slug": "ngorongoro-zebra-dust",
     "title": "Zebra in the dust",
     "excerpt": "Zebra crossing through dust on the Ngorongoro floor, colour and black and white.",
