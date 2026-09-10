@@ -1,5 +1,24 @@
 [
   {
+    "slug": "ngorongoro-crater-vistas",
+    "title": "The crater wall",
+    "excerpt": "A raptor overhead and the wall of the Ngorongoro crater running around the horizon.",
+    "iso_date": "2026-09-10T09:00:00+02:00",
+    "date": "10 September 2026",
+    "thumb": "ngorongoro-crater-vistas/cover.jpg",
+    "tags": [
+      "landscape",
+      "ngorongoro",
+      "tanzania",
+      "crater"
+    ],
+    "place": "Ngorongoro, Tanzania",
+    "coords": [
+      -3.1667,
+      35.5833
+    ]
+  },
+  {
     "slug": "ngorongoro-wildebeest",
     "title": "Crater herd",
     "excerpt": "A wildebeest herd on the Ngorongoro floor, from wide to tight, colour and black and white.",
