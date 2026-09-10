@@ -5,7 +5,17 @@
   <link rel="self" type="application/atom+xml" href="https://www.jamesgalt.photo/journal/feed.xml"/>
   <id>https://www.jamesgalt.photo/journal/</id>
   <author><name>James Galt</name></author>
-<updated>2026-09-10T09:00:00+02:00</updated>  <entry>
+<updated>2026-09-10T19:00:00+02:00</updated>  <entry>
+    <title>Beaded masks</title>
+    <link href="https://www.jamesgalt.photo/journal/ngorongoro-masks/"/>
+    <id>https://www.jamesgalt.photo/journal/ngorongoro-masks/</id>
+    <updated>2026-09-10T19:00:00+02:00</updated>
+<category term="craft"/>
+<category term="masks"/>
+<category term="tanzania"/>
+<category term="ngorongoro"/>
+<summary>Bead-covered masks at a curio stop near the Ngorongoro crater.</summary>  </entry>
+  <entry>
     <title>The crater wall</title>
     <link href="https://www.jamesgalt.photo/journal/ngorongoro-crater-vistas/"/>
     <id>https://www.jamesgalt.photo/journal/ngorongoro-crater-vistas/</id>

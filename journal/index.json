@@ -1,5 +1,24 @@
 [
   {
+    "slug": "ngorongoro-masks",
+    "title": "Beaded masks",
+    "excerpt": "Bead-covered masks at a curio stop near the Ngorongoro crater.",
+    "iso_date": "2026-09-10T19:00:00+02:00",
+    "date": "10 September 2026",
+    "thumb": "ngorongoro-masks/cover.jpg",
+    "tags": [
+      "craft",
+      "masks",
+      "tanzania",
+      "ngorongoro"
+    ],
+    "place": "Ngorongoro, Tanzania",
+    "coords": [
+      -3.1667,
+      35.5833
+    ]
+  },
+  {
     "slug": "ngorongoro-crater-vistas",
     "title": "The crater wall",
     "excerpt": "A raptor overhead and the wall of the Ngorongoro crater running around the horizon.",
