@@ -5,7 +5,17 @@
   <link rel="self" type="application/atom+xml" href="https://www.jamesgalt.photo/journal/feed.xml"/>
   <id>https://www.jamesgalt.photo/journal/</id>
   <author><name>James Galt</name></author>
-<updated>2026-09-11T09:00:00+02:00</updated>  <entry>
+<updated>2026-09-11T19:00:00+02:00</updated>  <entry>
+    <title>At the boma</title>
+    <link href="https://www.jamesgalt.photo/journal/maasai-boma-welcome/"/>
+    <id>https://www.jamesgalt.photo/journal/maasai-boma-welcome/</id>
+    <updated>2026-09-11T19:00:00+02:00</updated>
+<category term="portrait"/>
+<category term="maasai"/>
+<category term="tanzania"/>
+<category term="village"/>
+<summary>A morning visit to a Maasai boma between Ngorongoro and Tarangire, and a portrait of one elder.</summary>  </entry>
+  <entry>
     <title>Flora at dusk</title>
     <link href="https://www.jamesgalt.photo/journal/ngorongoro-flora-dusk/"/>
     <id>https://www.jamesgalt.photo/journal/ngorongoro-flora-dusk/</id>

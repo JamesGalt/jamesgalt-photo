@@ -1,5 +1,24 @@
 [
   {
+    "slug": "maasai-boma-welcome",
+    "title": "At the boma",
+    "excerpt": "A morning visit to a Maasai boma between Ngorongoro and Tarangire, and a portrait of one elder.",
+    "iso_date": "2026-09-11T19:00:00+02:00",
+    "date": "11 September 2026",
+    "thumb": "maasai-boma-welcome/cover.jpg",
+    "tags": [
+      "portrait",
+      "maasai",
+      "tanzania",
+      "village"
+    ],
+    "place": "Maasai village, Tanzania",
+    "coords": [
+      -3.2,
+      35.6
+    ]
+  },
+  {
     "slug": "ngorongoro-flora-dusk",
     "title": "Flora at dusk",
     "excerpt": "A red flower in the thorns, an agave stalk, and the hills at dusk near Ngorongoro.",
