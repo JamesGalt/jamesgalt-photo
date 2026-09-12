@@ -1,5 +1,24 @@
 [
   {
+    "slug": "maasai-village-school",
+    "title": "The village school",
+    "excerpt": "A boy at the chalkboard in the village school, colour and black and white.",
+    "iso_date": "2026-09-12T19:00:00+02:00",
+    "date": "12 September 2026",
+    "thumb": "maasai-village-school/cover.jpg",
+    "tags": [
+      "portrait",
+      "documentary",
+      "tanzania",
+      "village"
+    ],
+    "place": "Maasai village, Tanzania",
+    "coords": [
+      -3.2,
+      35.6
+    ]
+  },
+  {
     "slug": "maasai-elder-staff",
     "title": "Elder with a staff",
     "excerpt": "A Maasai elder with his staff at the boma, colour and black and white.",
