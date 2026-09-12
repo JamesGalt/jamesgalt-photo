@@ -1,5 +1,24 @@
 [
   {
+    "slug": "maasai-elder-staff",
+    "title": "Elder with a staff",
+    "excerpt": "A Maasai elder with his staff at the boma, colour and black and white.",
+    "iso_date": "2026-09-12T09:00:00+02:00",
+    "date": "12 September 2026",
+    "thumb": "maasai-elder-staff/cover.jpg",
+    "tags": [
+      "portrait",
+      "maasai",
+      "tanzania",
+      "village"
+    ],
+    "place": "Maasai village, Tanzania",
+    "coords": [
+      -3.2,
+      35.6
+    ]
+  },
+  {
     "slug": "maasai-boma-welcome",
     "title": "At the boma",
     "excerpt": "A morning visit to a Maasai boma between Ngorongoro and Tarangire, and a portrait of one elder.",
