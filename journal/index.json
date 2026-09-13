@@ -1,5 +1,24 @@
 [
   {
+    "slug": "maasai-boma-home",
+    "title": "Inside the boma",
+    "excerpt": "A Maasai house from the doorway and within, colour and black and white.",
+    "iso_date": "2026-09-13T09:00:00+02:00",
+    "date": "13 September 2026",
+    "thumb": "maasai-boma-home/cover.jpg",
+    "tags": [
+      "documentary",
+      "maasai",
+      "tanzania",
+      "village"
+    ],
+    "place": "Maasai village, Tanzania",
+    "coords": [
+      -3.2,
+      35.6
+    ]
+  },
+  {
     "slug": "maasai-village-school",
     "title": "The village school",
     "excerpt": "A boy at the chalkboard in the village school, colour and black and white.",
