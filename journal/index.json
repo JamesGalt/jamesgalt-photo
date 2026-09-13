@@ -1,5 +1,24 @@
 [
   {
+    "slug": "tarangire-baobabs",
+    "title": "Baobab country",
+    "excerpt": "Into Tarangire: impala at the waterhole and the baobabs that hold up the plain.",
+    "iso_date": "2026-09-13T19:00:00+02:00",
+    "date": "13 September 2026",
+    "thumb": "tarangire-baobabs/cover.jpg",
+    "tags": [
+      "landscape",
+      "baobab",
+      "tarangire",
+      "tanzania"
+    ],
+    "place": "Tarangire, Tanzania",
+    "coords": [
+      -3.8333,
+      36.0
+    ]
+  },
+  {
     "slug": "maasai-boma-home",
     "title": "Inside the boma",
     "excerpt": "A Maasai house from the doorway and within, colour and black and white.",
