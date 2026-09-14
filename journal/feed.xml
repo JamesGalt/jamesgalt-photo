@@ -5,7 +5,17 @@
   <link rel="self" type="application/atom+xml" href="https://www.jamesgalt.photo/journal/feed.xml"/>
   <id>https://www.jamesgalt.photo/journal/</id>
   <author><name>James Galt</name></author>
-<updated>2026-09-14T09:00:00+02:00</updated>  <entry>
+<updated>2026-09-14T19:00:00+02:00</updated>  <entry>
+    <title>Vervets and a baboon</title>
+    <link href="https://www.jamesgalt.photo/journal/tarangire-monkeys/"/>
+    <id>https://www.jamesgalt.photo/journal/tarangire-monkeys/</id>
+    <updated>2026-09-14T19:00:00+02:00</updated>
+<category term="wildlife"/>
+<category term="monkey"/>
+<category term="tarangire"/>
+<category term="tanzania"/>
+<summary>Vervet monkeys and a baboon around Tarangire, one carrying a baby.</summary>  </entry>
+  <entry>
     <title>Tarangire birds</title>
     <link href="https://www.jamesgalt.photo/journal/tarangire-birds/"/>
     <id>https://www.jamesgalt.photo/journal/tarangire-birds/</id>
