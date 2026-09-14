@@ -1,5 +1,24 @@
 [
   {
+    "slug": "tarangire-birds",
+    "title": "Tarangire birds",
+    "excerpt": "A lilac-breasted roller and other birds around Tarangire.",
+    "iso_date": "2026-09-14T09:00:00+02:00",
+    "date": "14 September 2026",
+    "thumb": "tarangire-birds/cover.jpg",
+    "tags": [
+      "wildlife",
+      "birds",
+      "tarangire",
+      "tanzania"
+    ],
+    "place": "Tarangire, Tanzania",
+    "coords": [
+      -3.8333,
+      36.0
+    ]
+  },
+  {
     "slug": "tarangire-baobabs",
     "title": "Baobab country",
     "excerpt": "Into Tarangire: impala at the waterhole and the baobabs that hold up the plain.",
