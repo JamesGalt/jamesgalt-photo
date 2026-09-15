@@ -1,5 +1,24 @@
 [
   {
+    "slug": "tarangire-plains",
+    "title": "Tarangire plains",
+    "excerpt": "A giraffe, zebra, and a bird on a branch across the open stretches of Tarangire.",
+    "iso_date": "2026-09-15T09:00:00+02:00",
+    "date": "15 September 2026",
+    "thumb": "tarangire-plains/cover.jpg",
+    "tags": [
+      "wildlife",
+      "tarangire",
+      "tanzania",
+      "safari"
+    ],
+    "place": "Tarangire, Tanzania",
+    "coords": [
+      -3.8333,
+      36.0
+    ]
+  },
+  {
     "slug": "tarangire-monkeys",
     "title": "Vervets and a baboon",
     "excerpt": "Vervet monkeys and a baboon around Tarangire, one carrying a baby.",
