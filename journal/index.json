@@ -1,5 +1,24 @@
 [
   {
+    "slug": "tarangire-elephants",
+    "title": "Tarangire elephants",
+    "excerpt": "The elephant families Tarangire is known for, from the open ground to the waterhole.",
+    "iso_date": "2026-09-15T19:00:00+02:00",
+    "date": "15 September 2026",
+    "thumb": "tarangire-elephants/cover.jpg",
+    "tags": [
+      "wildlife",
+      "elephant",
+      "tarangire",
+      "tanzania"
+    ],
+    "place": "Tarangire, Tanzania",
+    "coords": [
+      -3.8333,
+      36.0
+    ]
+  },
+  {
     "slug": "tarangire-plains",
     "title": "Tarangire plains",
     "excerpt": "A giraffe, zebra, and a bird on a branch across the open stretches of Tarangire.",
