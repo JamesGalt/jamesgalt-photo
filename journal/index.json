@@ -1,5 +1,24 @@
 [
   {
+    "slug": "stonetown-first-walk",
+    "title": "Into Stone Town",
+    "excerpt": "First walk through Stone Town, Zanzibar: blue walls, the harbour, a cafe front, the seafront colonnade.",
+    "iso_date": "2026-09-16T19:00:00+02:00",
+    "date": "16 September 2026",
+    "thumb": "stonetown-first-walk/cover.jpg",
+    "tags": [
+      "travel",
+      "zanzibar",
+      "stonetown",
+      "tanzania"
+    ],
+    "place": "Stone Town, Zanzibar",
+    "coords": [
+      -6.1631,
+      39.1892
+    ]
+  },
+  {
     "slug": "tarangire-late-afternoon",
     "title": "Tarangire, late",
     "excerpt": "A baobab, wildebeest at the water, and a cyclist on the road out of Tarangire.",
