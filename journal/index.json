@@ -1,5 +1,24 @@
 [
   {
+    "slug": "tarangire-late-afternoon",
+    "title": "Tarangire, late",
+    "excerpt": "A baobab, wildebeest at the water, and a cyclist on the road out of Tarangire.",
+    "iso_date": "2026-09-16T09:00:00+02:00",
+    "date": "16 September 2026",
+    "thumb": "tarangire-late-afternoon/cover.jpg",
+    "tags": [
+      "landscape",
+      "baobab",
+      "tarangire",
+      "tanzania"
+    ],
+    "place": "Tarangire, Tanzania",
+    "coords": [
+      -3.8333,
+      36.0
+    ]
+  },
+  {
     "slug": "tarangire-elephants",
     "title": "Tarangire elephants",
     "excerpt": "The elephant families Tarangire is known for, from the open ground to the waterhole.",
