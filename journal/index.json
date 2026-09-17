@@ -1,5 +1,24 @@
 [
   {
+    "slug": "stonetown-women-vendors",
+    "title": "At the bar, at the wall",
+    "excerpt": "Women in Stone Town: three at a bar and a street vendor with her stacked containers.",
+    "iso_date": "2026-09-17T19:00:00+02:00",
+    "date": "17 September 2026",
+    "thumb": "stonetown-women-vendors/cover.jpg",
+    "tags": [
+      "street",
+      "portrait",
+      "zanzibar",
+      "tanzania"
+    ],
+    "place": "Stone Town, Zanzibar",
+    "coords": [
+      -6.1631,
+      39.1892
+    ]
+  },
+  {
     "slug": "stonetown-street-faces",
     "title": "Stone Town faces",
     "excerpt": "Street portraits from Stone Town: men resting, a Maasai at the wall, a fruit cart in the lane.",
