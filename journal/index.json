@@ -1,5 +1,24 @@
 [
   {
+    "slug": "stonetown-street-faces",
+    "title": "Stone Town faces",
+    "excerpt": "Street portraits from Stone Town: men resting, a Maasai at the wall, a fruit cart in the lane.",
+    "iso_date": "2026-09-17T09:00:00+02:00",
+    "date": "17 September 2026",
+    "thumb": "stonetown-street-faces/cover.jpg",
+    "tags": [
+      "street",
+      "zanzibar",
+      "stonetown",
+      "tanzania"
+    ],
+    "place": "Stone Town, Zanzibar",
+    "coords": [
+      -6.1631,
+      39.1892
+    ]
+  },
+  {
     "slug": "stonetown-first-walk",
     "title": "Into Stone Town",
     "excerpt": "First walk through Stone Town, Zanzibar: blue walls, the harbour, a cafe front, the seafront colonnade.",

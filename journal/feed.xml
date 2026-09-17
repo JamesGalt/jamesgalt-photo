@@ -5,7 +5,17 @@
   <link rel="self" type="application/atom+xml" href="https://www.jamesgalt.photo/journal/feed.xml"/>
   <id>https://www.jamesgalt.photo/journal/</id>
   <author><name>James Galt</name></author>
-<updated>2026-09-16T19:00:00+02:00</updated>  <entry>
+<updated>2026-09-17T09:00:00+02:00</updated>  <entry>
+    <title>Stone Town faces</title>
+    <link href="https://www.jamesgalt.photo/journal/stonetown-street-faces/"/>
+    <id>https://www.jamesgalt.photo/journal/stonetown-street-faces/</id>
+    <updated>2026-09-17T09:00:00+02:00</updated>
+<category term="street"/>
+<category term="zanzibar"/>
+<category term="stonetown"/>
+<category term="tanzania"/>
+<summary>Street portraits from Stone Town: men resting, a Maasai at the wall, a fruit cart in the lane.</summary>  </entry>
+  <entry>
     <title>Into Stone Town</title>
     <link href="https://www.jamesgalt.photo/journal/stonetown-first-walk/"/>
     <id>https://www.jamesgalt.photo/journal/stonetown-first-walk/</id>
