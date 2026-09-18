@@ -1,5 +1,24 @@
 [
   {
+    "slug": "stonetown-sunset-beach",
+    "title": "Seafront acrobats",
+    "excerpt": "Sunset on the Stone Town seafront and the young acrobats leaping against it.",
+    "iso_date": "2026-09-18T09:00:00+02:00",
+    "date": "18 September 2026",
+    "thumb": "stonetown-sunset-beach/cover.jpg",
+    "tags": [
+      "street",
+      "zanzibar",
+      "stonetown",
+      "sunset"
+    ],
+    "place": "Stone Town seafront, Zanzibar",
+    "coords": [
+      -6.162,
+      39.1885
+    ]
+  },
+  {
     "slug": "stonetown-women-vendors",
     "title": "At the bar, at the wall",
     "excerpt": "Women in Stone Town: three at a bar and a street vendor with her stacked containers.",
