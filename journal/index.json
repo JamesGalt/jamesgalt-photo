@@ -1,5 +1,24 @@
 [
   {
+    "slug": "stonetown-morning",
+    "title": "Stone Town morning",
+    "excerpt": "A quiet Stone Town morning: a colonial building, a red plant, a weathering facade.",
+    "iso_date": "2026-09-19T09:00:00+02:00",
+    "date": "19 September 2026",
+    "thumb": "stonetown-morning/cover.jpg",
+    "tags": [
+      "travel",
+      "zanzibar",
+      "stonetown",
+      "architecture"
+    ],
+    "place": "Stone Town, Zanzibar",
+    "coords": [
+      -6.1631,
+      39.1892
+    ]
+  },
+  {
     "slug": "stonetown-acrobat-somersault",
     "title": "The somersault",
     "excerpt": "One beach somersault at Stone Town, colour and black and white.",
