@@ -1,5 +1,24 @@
 [
   {
+    "slug": "stonetown-interiors",
+    "title": "Doorways to the sea",
+    "excerpt": "Two Stone Town interiors, both aimed at the light and the water.",
+    "iso_date": "2026-09-20T09:00:00+02:00",
+    "date": "20 September 2026",
+    "thumb": "stonetown-interiors/cover.jpg",
+    "tags": [
+      "travel",
+      "architecture",
+      "zanzibar",
+      "stonetown"
+    ],
+    "place": "Stone Town, Zanzibar",
+    "coords": [
+      -6.1631,
+      39.1892
+    ]
+  },
+  {
     "slug": "stonetown-fish-market",
     "title": "Fish market",
     "excerpt": "The morning catch at the Stone Town fish market.",
