@@ -1,5 +1,24 @@
 [
   {
+    "slug": "stonetown-seawall",
+    "title": "At the sea wall",
+    "excerpt": "The Stone Town beach at the sea wall, colour and black and white.",
+    "iso_date": "2026-09-20T19:00:00+02:00",
+    "date": "20 September 2026",
+    "thumb": "stonetown-seawall/cover.jpg",
+    "tags": [
+      "street",
+      "zanzibar",
+      "stonetown",
+      "coast"
+    ],
+    "place": "Stone Town, Zanzibar",
+    "coords": [
+      -6.1631,
+      39.1892
+    ]
+  },
+  {
     "slug": "stonetown-interiors",
     "title": "Doorways to the sea",
     "excerpt": "Two Stone Town interiors, both aimed at the light and the water.",
