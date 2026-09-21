@@ -1,5 +1,24 @@
 [
   {
+    "slug": "jambiani-dhow-days",
+    "title": "Dhow days",
+    "excerpt": "The beaches north of Jambiani: a dhow on the sand and a bar out over the turquoise.",
+    "iso_date": "2026-09-21T09:00:00+02:00",
+    "date": "21 September 2026",
+    "thumb": "jambiani-dhow-days/cover.jpg",
+    "tags": [
+      "travel",
+      "beach",
+      "zanzibar",
+      "jambiani"
+    ],
+    "place": "north of Jambiani, Zanzibar",
+    "coords": [
+      -6.26,
+      39.54
+    ]
+  },
+  {
     "slug": "stonetown-seawall",
     "title": "At the sea wall",
     "excerpt": "The Stone Town beach at the sea wall, colour and black and white.",
