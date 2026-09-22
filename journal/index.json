@@ -1,5 +1,24 @@
 [
   {
+    "slug": "jambiani-pier-sunset",
+    "title": "The pier at dusk",
+    "excerpt": "A beach pier north of Jambiani at dusk, from silhouette to the lit boardwalk.",
+    "iso_date": "2026-09-22T09:00:00+02:00",
+    "date": "22 September 2026",
+    "thumb": "jambiani-pier-sunset/cover.jpg",
+    "tags": [
+      "travel",
+      "beach",
+      "zanzibar",
+      "jambiani"
+    ],
+    "place": "north of Jambiani, Zanzibar",
+    "coords": [
+      -6.26,
+      39.54
+    ]
+  },
+  {
     "slug": "jambiani-beach-dusk",
     "title": "Beach at dusk",
     "excerpt": "Dusk on the beach north of Jambiani, figures on the sand and a rainbow before the rain.",
