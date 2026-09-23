@@ -1,5 +1,24 @@
 [
   {
+    "slug": "jambiani-beach-life",
+    "title": "Beach life",
+    "excerpt": "The people working the beach north of Jambiani, sellers and a woman looking out to sea.",
+    "iso_date": "2026-09-23T09:00:00+02:00",
+    "date": "23 September 2026",
+    "thumb": "jambiani-beach-life/cover.jpg",
+    "tags": [
+      "street",
+      "beach",
+      "zanzibar",
+      "jambiani"
+    ],
+    "place": "north of Jambiani, Zanzibar",
+    "coords": [
+      -6.26,
+      39.54
+    ]
+  },
+  {
     "slug": "jambiani-sunset-sand",
     "title": "Footprint and dhow",
     "excerpt": "A footprint in the wet sand and a dhow at sunset north of Jambiani, colour and mono.",

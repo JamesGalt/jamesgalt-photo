@@ -5,7 +5,17 @@
   <link rel="self" type="application/atom+xml" href="https://www.jamesgalt.photo/journal/feed.xml"/>
   <id>https://www.jamesgalt.photo/journal/</id>
   <author><name>James Galt</name></author>
-<updated>2026-09-22T19:00:00+02:00</updated>  <entry>
+<updated>2026-09-23T09:00:00+02:00</updated>  <entry>
+    <title>Beach life</title>
+    <link href="https://www.jamesgalt.photo/journal/jambiani-beach-life/"/>
+    <id>https://www.jamesgalt.photo/journal/jambiani-beach-life/</id>
+    <updated>2026-09-23T09:00:00+02:00</updated>
+<category term="street"/>
+<category term="beach"/>
+<category term="zanzibar"/>
+<category term="jambiani"/>
+<summary>The people working the beach north of Jambiani, sellers and a woman looking out to sea.</summary>  </entry>
+  <entry>
     <title>Footprint and dhow</title>
     <link href="https://www.jamesgalt.photo/journal/jambiani-sunset-sand/"/>
     <id>https://www.jamesgalt.photo/journal/jambiani-sunset-sand/</id>
