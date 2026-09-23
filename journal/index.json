@@ -1,5 +1,24 @@
 [
   {
+    "slug": "jambiani-farewell",
+    "title": "Last frames, Zanzibar",
+    "excerpt": "A portrait and a pair of lizards, the last frames from the coast north of Jambiani.",
+    "iso_date": "2026-09-23T19:00:00+02:00",
+    "date": "23 September 2026",
+    "thumb": "jambiani-farewell/cover.jpg",
+    "tags": [
+      "portrait",
+      "zanzibar",
+      "jambiani",
+      "travel"
+    ],
+    "place": "north of Jambiani, Zanzibar",
+    "coords": [
+      -6.26,
+      39.54
+    ]
+  },
+  {
     "slug": "jambiani-beach-life",
     "title": "Beach life",
     "excerpt": "The people working the beach north of Jambiani, sellers and a woman looking out to sea.",
